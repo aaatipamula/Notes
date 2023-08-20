@@ -1,0 +1,64 @@
+# Definition:
+
+The basic idea behind the an integral is to find the area under a curve of a function. This extends the idea of a Reimann sum by creating infinitely small "rectangles" that we add up in order to get the area of a curve.
+
+# Indefinite Integrals:
+
+An *Indefinite Integral* is essentially the inverse operation to taking a [[Derivatives|derivative]], this is also known as the **anti-derivative**.
+
+# Improper Integrals:
+
+## Type 1: Infinite Bounds
+
+This can be dealt with by reorganizing the integral's bounds. We will instead take the limit as a variable R goes to infinity and replace the infinity in the bound with R such that: $$\int_a^{\infty}f(x)dx=\lim_{R\to\infty}\int_a^Rf(x)dx$$
+From there the integral can be solved as a proper integral keeping in mind the bound is a limit.
+
+**Theorem 1:** the p-integral over $[a,\infty)$
+
+## Type 2: Infinite Discontinuity
+
+# Area Between Curves
+
+There are two different types of areas, **Vertically Simple** and **Horizontally Simple**.
+
+## Vertically Simple
+
+If a vertical line is drawn and pushed through the area between two curves from *a* to *b* and:
+
+1. The line touches both functions at exactly one point each.
+2. One function's $y$ values are always greater than the other's on the interval (*a*,*b*)
+
+the area is vertically simple.
+
+ex.
+
+![vertically simple](https://www.math.umd.edu/~petersd/241/html/ex19_01.png)
+
+
+## Horizontally Simple
+
+If a horizontal line is drawn and pushed through the area between two curves from *a* to *b* and:
+
+1. The line touches both functions at exactly one point each.
+2. One function's $x$ values are always greater than the other's on the interval (*a*,*b*)
+
+the area is horizontally simple.
+
+ex.
+
+![horizontally simple](https://web.ma.utexas.edu/users/m408n/m408c/CurrentWeb/6-1-7_1.png)
+
+
+## Finding the Area Between Curves
+
+The area of a curve can be found by taking the integral of the outer function minus the inner function along the vertically or horizontally simple region's interval. 
+
+ex.
+
+Given $y=\sqrt{x}$ and $y=\frac{x}{2}$:
+
+![[Pasted image 20230411152411.png]]
+
+The area under the curve is: $$\int_{0}^{4}x^{2}-\frac{x}{2}dx$$
+
+# Integration by Parts
