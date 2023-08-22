@@ -8,8 +8,6 @@ Format Comments in two ways
 - Add collaborators
 	- Explain code that was worked on collaboratively extensively
 
-
-
 # Topics
 
 ## [[]]
