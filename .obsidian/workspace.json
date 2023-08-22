@@ -8,20 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64a79644ec638d78",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "55708870fa4c448a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Discrete Structures.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "78b33174ef432fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -96,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures.md",
+                "file": "Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures.md"
+                "file": "Software Engineering.md"
               }
             }
           },
@@ -129,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Structures.md",
+                "file": "Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55708870fa4c448a",
+  "active": "78b33174ef432fcc",
   "lastOpenFiles": [
     "Discrete Structures.md",
+    "Software Engineering.md",
     "Math/Calculus II.md",
     "Math/Volume of Shapes.md",
     "Math/Integrals.md",
@@ -186,7 +192,6 @@
     "Journal/Aug 19, 2023.md",
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal/Mar 08, 2023.md",
-    "Journal/Mar 11, 2023.md",
     "Journal",
     "Guides",
     "Attachments/Photos",
