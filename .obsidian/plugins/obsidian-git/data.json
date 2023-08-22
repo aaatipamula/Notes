@@ -1,9 +1,9 @@
 {
   "commitMessage": "Automatic Vault Backup\nDate: {{date}}\nHost: {{hostname}}\nFiles Changed: {{numFiles}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
-  "autoPullInterval": 0,
+  "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,

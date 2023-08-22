@@ -1,21 +1,32 @@
 # Definition:
 
-The basic idea behind the an integral is to find the area under a curve of a function. This extends the idea of a Reimann sum by creating infinitely small "rectangles" that we add up in order to get the area of a curve.
+The basic idea behind the an integral is to find the area under a curve of a function. This extends the idea of a [Reimann Sum](https://en.wikipedia.org/wiki/Riemann_sum) by creating infinitely small "rectangles" that we add up in order to get the area of a curve.
 
 # Indefinite Integrals:
 
-An *Indefinite Integral* is essentially the inverse operation to taking a [[Derivatives|derivative]], this is also known as the **anti-derivative**.
+An *Indefinite Integral* is essentially the inverse operation to taking a [[Derivatives|derivative]], this may also known as an **anti-derivative**.
 
 # Improper Integrals:
 
 ## Type 1: Infinite Bounds
 
-This can be dealt with by reorganizing the integral's bounds. We will instead take the limit as a variable R goes to infinity and replace the infinity in the bound with R such that: $$\int_a^{\infty}f(x)dx=\lim_{R\to\infty}\int_a^Rf(x)dx$$
+This occurs when one of the bounds of an integral from $a$ to $b$ are equal to $\infty$.
+
+This can be dealt with by reorganizing the integral's bounds. We will instead take the limit as a variable R goes to infinity and replace the infinity in the bound with R such that: 
+
+$$\int_a^{\infty}f(x)dx=\lim_{R\to\infty}\int_a^Rf(x)dx$$
+
 From there the integral can be solved as a proper integral keeping in mind the bound is a limit.
 
 **Theorem 1:** the p-integral over $[a,\infty)$
 
 ## Type 2: Infinite Discontinuity
+
+This is when there is an infinite break (usually a vertical asymptote sometimes another asymptote) in-between the bounds of the function to be integrated. 
+
+This is dealt with by breaking the integral into two different parts and taking the limit where the function approaches the asymptote such that:
+
+$$\int_{-2}^{2}\frac{1}{x}=\lim_{R\to0}\int_{-2}^{R}+\int_{R}^{2}$$
 
 # Area Between Curves
 
@@ -23,10 +34,10 @@ There are two different types of areas, **Vertically Simple** and **Horizontally
 
 ## Vertically Simple
 
-If a vertical line is drawn and pushed through the area between two curves from *a* to *b* and:
+If a vertical line is drawn and pushed through the area between two curves from $a$ to $b$ and:
 
 1. The line touches both functions at exactly one point each.
-2. One function's $y$ values are always greater than the other's on the interval (*a*,*b*)
+2. One function's $y$ values are always greater than the other's on the interval ($a$,$b$)
 
 the area is vertically simple.
 
@@ -61,4 +72,6 @@ Given $y=\sqrt{x}$ and $y=\frac{x}{2}$:
 
 The area under the curve is: $$\int_{0}^{4}x^{2}-\frac{x}{2}dx$$
 
-# Integration by Parts
+# Advanced Integration Techniques
+
+## Integration by Parts

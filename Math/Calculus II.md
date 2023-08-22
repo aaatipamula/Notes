@@ -4,17 +4,15 @@
 
 # Topics
 
-## [[Integrals#Improper Integrals|Improper Integrals]]
+## [[Integrals#Improper Integrals]]
+
+## [[Integrals#Advanced Integration Techniques]]
+
+## [[Integrals#Area Between Curves]]
+
+## [[Volume of Shapes]]
 
 ## [[Sequences]]
 
 ## [[Series]]
-
-## [[Integrals#Area Between Curves|Area Between Curves]]
-
-## [[Volume of Shapes]]
-
-## [[Integrals#Integration by Parts|Integration by Parts]]
-
-
 
