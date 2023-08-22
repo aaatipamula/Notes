@@ -19,7 +19,13 @@ Problems that could be solved with discrete math:
 - Encrypting a message.
 - Building a circuit that adds two integers.
 - Is there a link between two computers in a network?
-- Proving a sorting algorithim accurately sorts a set of values.
+- Proving a sorting algorithm accurately sorts a set of values.
+
+## Goals
+
+- Mathematical Reasoning: Read, understand, and construct proofs
+- Combinatorial Analysis: Techniques for counting objects.
+- Discrete Structures: 
 
 # Topics
 
