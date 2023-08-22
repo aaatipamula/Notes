@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "55708870fa4c448a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -81,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Discrete Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Discrete Structures.md"
+              }
             }
           },
           {
@@ -111,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a79644ec638d78",
+  "active": "55708870fa4c448a",
   "lastOpenFiles": [
+    "Discrete Structures.md",
     "Math/Calculus II.md",
     "Math/Volume of Shapes.md",
     "Math/Integrals.md",
@@ -167,7 +187,6 @@
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal/Mar 08, 2023.md",
     "Journal/Mar 11, 2023.md",
-    "Journal/Mar 02, 2023.md",
     "Journal",
     "Guides",
     "Attachments/Photos",
