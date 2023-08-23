@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4d4581b443710aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Direct Substitution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -150,10 +163,12 @@
   },
   "active": "55708870fa4c448a",
   "lastOpenFiles": [
+    "Math/Direct Substitution.md",
+    "Math/Vectors.md",
+    "Untitled.md",
     "Math/Linear Algebra.md",
     "Pasted image 20230823113640.png",
     "Math/Calculus III.md",
-    "Math/Vectors.md",
     "Math/Calculus II.md",
     "Discrete Structures.md",
     "Math/Multivariable Calculus.md",
@@ -161,7 +176,6 @@
     "Math/Volume of Shapes.md",
     "Math/Integrals.md",
     "Math/Calculus I.md",
-    "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Math/N'th Degree Division.md",
     "Math/Nth Term Divergence Test.md",
