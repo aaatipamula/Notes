@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -149,6 +150,7 @@
   },
   "active": "55708870fa4c448a",
   "lastOpenFiles": [
+    "Pasted image 20230823113640.png",
     "Math/Calculus III.md",
     "Math/Vectors.md",
     "Math/Calculus II.md",
@@ -176,7 +178,6 @@
     "2023-01-23.md",
     "Journal/Aug 19, 2023.md",
     "Attachments/Photos/Pasted image 20230123104056.png",
-    "Journal/Mar 08, 2023.md",
     "Journal",
     "Guides",
     "Attachments/Photos",

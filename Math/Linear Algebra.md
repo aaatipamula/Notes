@@ -22,6 +22,7 @@ Linear equations should only be simplified using invertible processes. This can 
 
 **Augmented Matrices**:
 
+![[Pasted image 20230823113640.png]]
 
 # Topics
 
