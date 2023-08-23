@@ -17,9 +17,9 @@ The **magnitude** of a vector can be found in one of the following ways.
 If the vector is in $\mathbb{R}^2$ and $\vec{v}=\langle2,3\rangle$:
 
 $$\begin{align*}
-\|\vec{v}||=\sqrt{2^2+3^2}\\
+\|\vec{v}\|&=\sqrt{2^2+3^2}\\
 &=\sqrt{4+9}\\
 &=\sqrt{13}
 \end{align*}$$
 
-Or if the vector is in  $\mathbb{R}^3$:
+r if the vector is in  $\mathbb{R}^3$:
