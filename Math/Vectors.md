@@ -27,5 +27,5 @@ Or similarly if the vector is in  $\mathbb{R}^3$ and $\vec{w}=\langle2,3,4\rangl
 $$\begin{align*}
 \|\vec{v}\|&=\sqrt{2^2+3^2+4^2}\\
 &=\sqrt{4+9+16}\\
-&=\sqrt{13}
+&=\sqrt{29}
 \end{align*}$$
