@@ -11,6 +11,11 @@ As the name suggest this focuses on [Linear Equations](https://en.wikipedia.org/
 
 > NOTE: This will not occur for *non-linear* equations
 
+### Solving Systems of Linear Equations
+
+- They can only be simplified using invertable processes ^1
+
+[^1]:
 # Topics
 
 ## [[Math/Vectors]]
