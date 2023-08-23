@@ -14,14 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "Math/Vectors.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "4d4581b443710aac",
+            "id": "5778e117095a03e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,6 +166,7 @@
   "lastOpenFiles": [
     "Math/Direct Substitution.md",
     "Math/Vectors.md",
+    "Math/Limits.md",
     "Untitled.md",
     "Math/Linear Algebra.md",
     "Pasted image 20230823113640.png",
@@ -176,7 +178,6 @@
     "Math/Volume of Shapes.md",
     "Math/Integrals.md",
     "Math/Calculus I.md",
-    "Math/Limits.md",
     "Math/N'th Degree Division.md",
     "Math/Nth Term Divergence Test.md",
     "Math/Ratio Test.md",
