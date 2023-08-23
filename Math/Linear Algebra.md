@@ -18,8 +18,6 @@ Linear equations should only be simplified using invertible processes. This can 
 - Multiply an equation by an a *non-zero* constant.
 - Add or subtract a multiple of an equation to another.
 
-> e.g. $$
-
 # Topics
 
 ## [[Math/Vectors]]
