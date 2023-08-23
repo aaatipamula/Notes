@@ -13,9 +13,13 @@ As the name suggest this focuses on [Linear Equations](https://en.wikipedia.org/
 
 ### Solving Systems of Linear Equations
 
-- They can only be simplified using invertable processes ^1
+Linear equations should only be simplified using invertible processes. This can be one of the three following operations:
+- Changing the order of equations.
+- Multiply an equation by an a *non-zero* constant.
+- Add or subtract a multiple of an equation to another.
 
-[^1]:
+> e.g. $$
+
 # Topics
 
 ## [[Math/Vectors]]
