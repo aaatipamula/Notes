@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Vectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "Math/Vectors.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,13 @@
   },
   "active": "55708870fa4c448a",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
     "Pasted image 20230823113640.png",
     "Math/Calculus III.md",
     "Math/Vectors.md",
     "Math/Calculus II.md",
     "Discrete Structures.md",
     "Math/Multivariable Calculus.md",
-    "Math/Linear Algebra.md",
     "Software Engineering.md",
     "Math/Volume of Shapes.md",
     "Math/Integrals.md",
