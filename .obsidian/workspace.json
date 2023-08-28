@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quadratic Sufaces.md",
+                "file": "Math/Quadratic Sufaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadratic Sufaces.md",
+                "file": "Math/Quadratic Sufaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratic Sufaces.md"
+                "file": "Math/Quadratic Sufaces.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadratic Sufaces.md",
+                "file": "Math/Quadratic Sufaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
   "active": "9d3a2853e833a3f0",
   "lastOpenFiles": [
     "Math/Calculus III.md",
-    "Quadratic Sufaces.md",
+    "Math/Quadratic Sufaces.md",
     "Math/Integrals.md",
     "Math/Integration by Parts.md",
     "Math/Linear Algebra.md",
