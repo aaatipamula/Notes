@@ -64,7 +64,7 @@ ex.
 
 The area of a curve can be found by taking the integral of the outer function minus the inner function along the vertically or horizontally simple region's interval. 
 
-ex.
+e.g.
 
 Given $y=\sqrt{x}$ and $y=\frac{x}{2}$:
 
@@ -73,6 +73,12 @@ Given $y=\sqrt{x}$ and $y=\frac{x}{2}$:
 The area under the curve is: $$\int_{0}^{4}x^{2}-\frac{x}{2}dx$$
 
 # Advanced Integration Techniques
+
+## U-Substitution
+
+This is mostly useful when solving simpler two product integrals in the form $\int{u(x)v(x)}dx$ where $u(x)$ or a subsequent "part" can be *substituted* by the derivative of $v(x)$ or vice versa.
+
+e.g.
 
 ## Integration by Parts
 
