@@ -29,6 +29,7 @@ As mentioned before these have a horizontal asymptote.
 
 General Form:
 
+
 $$$$
 
 # Surfaces
