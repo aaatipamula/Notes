@@ -1,6 +1,6 @@
 # Ellipses
 
-These are shapes such as a *circle*
+These are shapes such as an *oval* or *circle*.
 
 They generally follow the form:
 
@@ -15,5 +15,3 @@ They generally follow the form:
 
 $${\frac{x}{A}}^2+{\frac{y}{B}}^2+{\frac{z}{C}}^2=1$$
 > $A$, $B$  and $C$ are constants.
-
-Or
