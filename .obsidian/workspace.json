@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Linear Algebra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Vectors.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +164,8 @@
   },
   "active": "55708870fa4c448a",
   "lastOpenFiles": [
-    "Math/Direct Substitution.md",
     "Math/Vectors.md",
+    "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Untitled.md",
     "Math/Linear Algebra.md",
