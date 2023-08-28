@@ -26,7 +26,13 @@ Linear equations should only be simplified using invertible processes. This can 
 
 ![[Pasted image 20230823113640.png]]
 
-**Echelon Form**:
+**Gaussian Elimination** #gaussian-elim:
+
+1. Put 1 in the top left col.
+2. Use this leading 1 to eliminate all other value in that column
+3. Repeat this process for each remaining row.
+
+**Echelon Form** :
 
 **Reduced Row Echelon Form (RREF)**:
 
@@ -36,10 +42,8 @@ A matrix is reduced if:
 
 ## Theorems
 
----
-
-Using  row elimination operations, any system can be simplfied in *RREF*. Moreover this reduced form is **unique**.
-> This process is also called **Gaussian Elim
+Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
+> This process is also called [[]]
 
 # Topics
 
