@@ -39,13 +39,13 @@ Linear equations should only be simplified using invertible processes. This can 
 **Reduced Row Echelon Form (RREF)**:
 
 A matrix is reduced if:
-- It is in [[#^c7cfce|]] form.
+- It is in [[#^c7cfce|echelon]] form.
 - A leading $1$ is the only non-zero value in the row.
 
 ## Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
-> This process is also called [[#^1ae43e]]
+> This process is also called [[#^1ae43e|gaussian elimination]].
 
 # Topics
 
