@@ -13,7 +13,13 @@ $$\left(\frac{x-h}{A}\right)^2+\left(\frac{y-k}{B}\right)^2=1$$
 
 ## Hyperbola
 
-There are two different types of hyperbolas, ones with a [vertical asymptote](https://en.wikipedia.org/wiki/Asymptote#Vertical_asymptotes) and ones with a [horizontal asymptote](https://en.wikipedia.org/wiki/Asymptote#Horizontal_asymptotes).
+There are two different types of hyperbolas, ones with a [vertical asymptote](https://en.wikipedia.org/wiki/Asymptote#Vertical_asymptotes) ([[#Type I]] )and ones with a [horizontal asymptote](https://en.wikipedia.org/wiki/Asymptote#Horizontal_asymptotes) ([[#Type II]]).
+
+### Type I
+
+
+
+### Type II
 
 # Surfaces
 
