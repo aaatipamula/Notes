@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Calculus III.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d3a2853e833a3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quadratic Sufaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Quadratic Sufaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Integrals.md"
+                "file": "Quadratic Sufaces.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Quadratic Sufaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f659b75b3d180ff5",
+  "active": "9d3a2853e833a3f0",
   "lastOpenFiles": [
-    "Math/Integration by Parts.md",
+    "Math/Calculus III.md",
+    "Quadratic Sufaces.md",
     "Math/Integrals.md",
+    "Math/Integration by Parts.md",
     "Math/Linear Algebra.md",
     "Math/Vectors.md",
     "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Untitled.md",
     "Pasted image 20230823113640.png",
-    "Math/Calculus III.md",
     "Math/Calculus II.md",
     "Discrete Structures.md",
     "Math/Multivariable Calculus.md",
@@ -177,7 +192,6 @@
     "Math/Absolute Convergence.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Journal/2023-01-23.md",
-    "2023-01-23.md",
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal",
     "Guides",
