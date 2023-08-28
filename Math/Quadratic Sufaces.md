@@ -6,7 +6,7 @@ These are 2D shapes that may make up the cross sectional of a [[#Surfaces|surfac
 
 These are shapes such as an *oval* or *circle*.
 
-They generally follow the form:
+General Form:
 
 $$\left(\frac{x-h}{A}\right)^2+\left(\frac{y-k}{B}\right)^2=1$$
 > $A$ and $B$ are constants.
@@ -17,9 +17,19 @@ There are two different types of hyperbolas, ones with a [vertical asymptote](ht
 
 ### Type I
 
+As mentioned before these have a vertical asymptote. 
 
+General Form:
+
+$$$$
 
 ### Type II
+
+As mentioned before these have a horizontal asymptote. 
+
+General Form:
+
+$$$$
 
 # Surfaces
 
