@@ -1,4 +1,8 @@
-# Ellipses
+# Curves
+
+These are 2D shapes that may make up the cross sectional of a [[#Surfaces|surface]].
+
+##  Ellipses
 
 These are shapes such as an *oval* or *circle*.
 
@@ -7,7 +11,13 @@ They generally follow the form:
 $$\left(\frac{x-h}{A}\right)^2+\left(\frac{y-k}{B}\right)^2=1$$
 > $A$ and $B$ are constants.
 
-# Ellipsoid
+## Hyperbola
+
+There are two different types of hyperbolas, ones with a [vertical asymptote](https://en.wikipedia.org/wiki/Asymptote#Vertical_asymptotes) and ones with a [horizontal asymptote](https://en.wikipedia.org/wiki/Asymptote#Horizontal_asymptotes).
+
+# Surfaces
+
+## Ellipsoid
 
 The *Cross-sectionals* of these shapes are either *ellipses* or points.
 
