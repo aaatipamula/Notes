@@ -75,3 +75,4 @@ The area under the curve is: $$\int_{0}^{4}x^{2}-\frac{x}{2}dx$$
 # Advanced Integration Techniques
 
 ## Integration by Parts
+
