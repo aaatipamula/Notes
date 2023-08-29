@@ -1,11 +1,14 @@
 # Overview
 
-A *proposition* is a declarative sentence that is either *true* or *false*.
+A *proposition* is a declarative sentence that is either *true* ($T$) or *false* ($F$). 
 
-# Logical Operators
+## Logical Operators
 
-Could also be called constructs they include the basic logical operators *AND, OR , XOR, NOT* 
+These include the following:
 
-## 
-The *AND* operator is denoted as $$
+- 
+
+# Predicates
+
+Predicates become porpositions (with truth values) when their vairables are replaced by a 
 
