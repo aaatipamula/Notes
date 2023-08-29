@@ -37,8 +37,13 @@ Expressions with variables ($P(x)\rightarrow P(2)$) are not propositons and do n
 
 ## Quantifiers
 
-Quantifiers express the meaning of the words "all" and "some".
+Quantifiers express the meaning of the words "all" and "some". They are said to bind variable(s) in logical expressions.
 
 The two most important ones are 
 - *Universal Quantifier* | "For All" | $\forall$
-- *Exestential Quantifier* | "There Exists" | $\exists$
+- *Exestential Quantifier* | "There Exists" or "Some" | $\exists$
+
+e.g. let $P(x)$ be an arbitrary predicate
+
+$\forall x P(x)$ asserts P(x) is true *for all* $x$ in the domain $U$
+$\exists x P(x)$ asserts P(x) is true for *some* $x$ in the domain $U$
