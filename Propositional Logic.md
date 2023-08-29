@@ -11,7 +11,7 @@ These include the following:
 
 ## Predicates
 
-Predicates become porpositions (with truth values) when their vairables are replaced by a value in the *domain* (bound by a [[#Quanifiers:]]).
+Predicates become [[Propositional Logic]] (with truth values) when their vairables are replaced by a value in the *domain* (bound by a [[#Quanifiers:]]).
 
 $P(x)$ is said to be the value of  the Predicate *P at x*.
 
@@ -33,4 +33,12 @@ $P(3)\lor P(-1)$ -> True
 $P(3)\land P(-1)$ -> False
 $P(3)\rightarrow\neg P(-1)$ -> True
 
+Expressions with variables ($P(x)\rightarrow P(2)$) are not propositons and do not have truth values.
 
+## Quantifiers
+
+Quantifiers express the meaning of the words "all" and "some".
+
+The two most important ones are 
+- *Universal Quantifier* | "For All" | $\forall$
+- *Exestential Quantifier* | "There Exists" | $\exists$
