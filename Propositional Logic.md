@@ -25,10 +25,12 @@ $P(3)$ -> True
 
 > The domain $U$ would be any integer
 
-Propositions may also be used with [[#Logical Operators]].
+Predicates may also be used with [[#Logical Operators]].
 
 e.g.  let $P(x)$ denote *x>0*
 
 $P(3)\lor P(-1)$ -> True
-$P(0)$ -> False
-$P(3)$ -> True
+$P(3)\land P(-1)$ -> False
+$P(3)\rightarrow\neg P(-1)$ -> True
+
+
