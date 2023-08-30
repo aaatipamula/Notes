@@ -16,5 +16,6 @@
   },
   "livePreview": false,
   "defaultViewMode": "source",
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileLocation": "current"
 }
