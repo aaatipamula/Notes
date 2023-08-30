@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f659b75b3d180ff5",
+            "id": "1befd12b62712359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus III.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb544f685f5d5be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Series.md",
+                "file": "Math/Calculus II.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Series.md",
+                "file": "Math/Calculus II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Series.md"
+                "file": "Math/Calculus II.md"
               }
             }
           },
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Series.md",
+                "file": "Math/Calculus II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,11 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb544f685f5d5be9",
+  "active": "1befd12b62712359",
   "lastOpenFiles": [
+    "Math/Calculus III.md",
+    "Math/Series.md",
     "Math/Calculus II.md",
     "Math/Integrals.md",
-    "Math/Calculus III.md",
     "Math/Curves and Surfaces.md",
     "Math/Vectors.md",
     "Discrete Structures.md",
@@ -200,7 +187,6 @@
     "Math/Ratio Test.md",
     "Math/Root Test.md",
     "Math/Sequences.md",
-    "Math/Series.md",
     "Math/L'Hopitals Rule.md",
     "scratchpaper.md",
     "Philosophy/Phil 150.md",
