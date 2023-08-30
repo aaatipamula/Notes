@@ -86,3 +86,9 @@ $$\langle i_{1}, j_{1}, k_{1}\rangle \times \langle i_{2}, j_{2}, k_{2}\rangle=
 The following formula can be manipulated to find the *angle between two vectors*
 
 $$\sin{\theta}=\frac{\|u\times v\|}{\|u\|\|v\|}$$
+
+# Lines
+
+Lines in $\mathbb{R}^3$ can take one of the three following forms:
+
+1. 
