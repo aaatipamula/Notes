@@ -91,10 +91,16 @@ $$\sin{\theta}=\frac{\|u\times v\|}{\|u\|\|v\|}$$
 
 **Lines $\mathbb{R}^3$ are made up of a direction vector $\vec{v}$ and a point $P$.**
 
-Given $\vec{v}=\langle A,B,C\rangle and $
+Given $\vec{v}=\langle A,B,C\rangle$ and point $P=(a,b,c)$
 
 $$r(t)=\langle At+a, Bt+b, Ct+c\rangle$$
 
 Or 
 
 $$r(t)=\langle a,b,c\rangle + t\langle A,B,C\rangle$$
+
+**Lines are parallel if the direction vectors of the two lines are magnitudes of one another.**
+
+e.g. Given two lines $r(t)=\langle 3t+1, 7t+13, 11t+8\rangle$ and $s(t)=\langle 30t+1, 70t+13, 110t+8\rangle$
+
+Lines $r$ and $s$ are *parallel* because each value of the direction vector of $r=\langle3,7,11\rangle$ is 
