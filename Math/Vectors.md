@@ -47,10 +47,11 @@ $$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
 i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
 
 The dot product has the following properties:
-- Communitive | $u\cdot v$  = $v\cdot u$
--  Zero | $0\cdot v$  = $0$
--  Distributive | $u\cdot (v + w)$  = $u\cdot v + u\cdot w$
--  Square | $u\cdot u$  = $\|u\|^2$
+- Communitive | $u\cdot v = v\cdot u$
+- Zero | $0\cdot v = 0$
+- Distributive | $u\cdot (v + w) = u\cdot v + u\cdot w$
+- Square | $u\cdot u = \|u\|^2$
+- Constant Multiple | $c(u\cdot v) = cv\cdot u = v\cdot cu$
 
 e.g. Given $v=\langle 1,2,3\rangle$ and $w=\langle 4,5,6\rangle$ 
 
@@ -59,4 +60,6 @@ v\cdot w &= 1*4  + 2*5 + 3*6\\
 &=4 + 10 + 18\\
 &=32
 \end{align*}$$
-	
+
+# Cross Product
+
