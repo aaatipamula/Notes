@@ -1,4 +1,10 @@
-# Special Vectors
+# Overview
+
+Vectors are have two properties, [[#Magnitude]] and *direction*
+
+**A vector $\vec{PQ}$ can be found from two points $P$ and $Q$ by subtracting $P$ from $Q$.
+
+## Special Vectors
 
 The *zero-vector* has **no magnitude** and **no direction**. in $\mathbb{R}^2$ and $\mathbb{R}^3$
 
