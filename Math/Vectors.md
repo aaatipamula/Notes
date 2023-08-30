@@ -75,3 +75,4 @@ A cross product is an operation performed between two different vectors which pr
 
 **The cross product of two vectors is always orthogonal to the two original vectors.**
 
+## Calculations
