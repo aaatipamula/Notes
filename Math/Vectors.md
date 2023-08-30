@@ -2,7 +2,7 @@
 
 Vectors are have two properties, [[#Magnitude]] and *direction*
 
-**A vector $\vec{PQ}$ can be found from two points $P$ and $Q$ by subtracting $P$ from $Q$.
+**A vector $\vec{PQ}$ can be found from two points $P$ and $Q$ by subtracting $P$ from $Q$.**
 
 ## Special Vectors
 
@@ -16,14 +16,13 @@ Given a vector $\vec{v}$ the unit vector can be found using the following:
 
 $$\frac{\vec{v}}{\|\vec{v}\|}$$
 
-## Standard Basis Vectors
+### Standard Basis Vectors
 
 In $\mathbb{R}^2$:  $\textbf{i}=\langle1,0\rangle$ and $\textbf{j}=\langle0,1\rangle$
 
 In $\mathbb{R}^3$:  $\textbf{i}=\langle1,0,0\rangle$ and $\textbf{j}=\langle0,1,0\rangle$ and $\textbf{j}=\langle0,0,1\rangle$
 
 # Magnitude
-
 
 The *magnitude* or  *length* of a vector can be found in one of the following ways.
 > Notation: $\|v\|$  meaning the magnitude of vector v
@@ -123,7 +122,9 @@ Lines $r$ and $s$ are *parallel* because each component of the direction vector 
 
 A *linear combination* of points/[[Vectors]]/columns
 
-Is (*informally*) any point/vector/column that can be constructed with using point ($x_1$, $x_n$) and ($y_1$, $y_n$)	(*formally*) any point/vector/column of the form $\alpha x + \beta y$ where $\alpha$ and $\beta$ are constants.
+Is (*informally*) any point/vector/column that can be constructed with using point ($x_1$, $x_n$) and ($y_1$, $y_n$)	
+
+(*formally*) any point/vector/column of the form $\alpha x + \beta y$ where $\alpha$ and $\beta$ are constants.
 
 e.g. 
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Vectors.md",
-                "mode": "preview",
+                "file": "Math/L'Hopitals Rule.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/L'Hopitals Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Vectors.md"
+                "file": "Math/L'Hopitals Rule.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/L'Hopitals Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,13 @@
   },
   "active": "17d9134854be578a",
   "lastOpenFiles": [
+    "Math/Ratio Test.md",
     "Math/Planes.md",
+    "Math/Root Test.md",
+    "Math/Sequences.md",
+    "Math/Series.md",
+    "Math/Vectors.md",
+    "Math/Volume of Shapes.md",
     "Math/Calculus II.md",
     "Math/Linear Algebra.md",
     "CS/Git Server Setup.md",
@@ -161,23 +167,17 @@
     "CS",
     "Untitled.md",
     "Attachments/Photos/Pasted image 20230823113640.png",
-    "Math/Vectors.md",
     "Math/Integrals.md",
     "Math/Calculus III.md",
-    "Math/Series.md",
     "Math/Curves and Surfaces.md",
     "CS/Propositional Logic.md",
     "Math/Integration by Parts.md",
     "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Math/Multivariable Calculus.md",
-    "Math/Volume of Shapes.md",
     "Math/Calculus I.md",
     "Math/N'th Degree Division.md",
     "Math/Nth Term Divergence Test.md",
-    "Math/Ratio Test.md",
-    "Math/Root Test.md",
-    "Math/Sequences.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal",
