@@ -20,18 +20,19 @@ Linear equations should only be simplified using invertible processes. This can 
 
 # Notation
 
-$\forall$  examples 
-
 $$a=
 \begin{vmatrix}
 a & b & c \\
 i & j & k \\
 x & y & z \\
 \end{vmatrix}$$
+> $\forall$  Examples 
 
-**Multiply a Row by a Scalar**
+**Multiply a Row by a Scalar $C$**
 
+$R_{i}\rightarrow C\cdot R_i$
 
+e.g. $R_1\rightarrow R_1$
 
 ## Definitions:
 
@@ -40,14 +41,14 @@ x & y & z \\
 ![[Pasted image 20230823113640.png]]
 
 **Gaussian Elimination**:
-#gaussian-elim ^1ae43e
+#gaussian-elim
 
 1. Put 1 in the top left col.
 2. Use this leading 1 to eliminate all other value in that column
 3. Repeat this process for each remaining row.
 
 **Echelon Form** :
-#echelon-form ^c7cfce
+#echelon-form
 
 A matrix is in echelon form if:
 - The bottom row consists of only 0
@@ -56,14 +57,14 @@ A matrix is in echelon form if:
 **Reduced Row Echelon Form (RREF)**:
 
 A matrix is reduced if:
-- It is in [[#^c7cfce|echelon]] form.
+- It is in *echelon form*. #echelon-form
 - A leading $1$ is the only non-zero value in the row.
 
 ## Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
-> This process is also called [[#^1ae43e|gaussian elimination]].
+> This process is also called *gaussian elimination* #gaussian-elim 
 
 # Topics
 
-## [[Math/Vectors]]
+## [[Vectors]]
