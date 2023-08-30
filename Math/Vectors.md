@@ -36,5 +36,7 @@ $$\begin{align*}
 
 The dot product of two vectors is a constant or *scalar*.
 
-e.g. given 
+$\mult$
+e.g. given $v_1=\langle a,b,c\rangle$ and $v_{2}\langle i,j,k\rangle$ 
+
 	
