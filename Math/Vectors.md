@@ -44,12 +44,18 @@ i_{1}*i_{2} + j_{1}*j_{2}$$
 Or in $\mathbb{R}^3$: 
 
 $$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
-\langle i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}\rangle$$
+i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
+
+The dot product has the following properties:
+- Communitive | $u\cdot v$  = $v\cdot u$
+-  Zero| $0\cdot v$  = $0$
+-  | $0\cdot v$  = $0$
 
 e.g. given $v_1=\langle 1,2,3\rangle$ and $v_{2}=\langle 4,5,6\rangle$ 
 
 $$\begin{align*}
-v_1=\langle 1,2,3\rangle \cdot v_{2}=\langle 4,5,6\rangle &= 1*4  + 2*5 + 3*6
-&=4
+v_1=\langle 1,2,3\rangle \cdot v_{2}=\langle 4,5,6\rangle &= 1*4  + 2*5 + 3*6\\
+&=4 + 10 + 18\\
+&=32
 \end{align*}$$
 	
