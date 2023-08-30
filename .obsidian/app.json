@@ -17,5 +17,6 @@
   "livePreview": false,
   "defaultViewMode": "source",
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Attachments"
 }
