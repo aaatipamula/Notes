@@ -76,3 +76,9 @@ A cross product is an operation performed between two different vectors which pr
 **The cross product of two vectors is always orthogonal to the two original vectors.**
 
 ## Calculations
+
+
+The Co in $\mathbb{R}^3$: 
+
+$$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
+i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
