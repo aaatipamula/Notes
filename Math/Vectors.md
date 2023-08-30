@@ -12,11 +12,11 @@ In $\mathbb{R}^3$:  $\textbf{i}=\langle1,0,0\rangle$ and $\textbf{j}=\langle0,1,
 
 # Magnitude
 
-The **magnitude** or  **length** of a vector can be found in one of the following ways.
 
-e.g.
+The *magnitude* or  *length* of a vector can be found in one of the following ways.
+> Notation assuming $v$ is a vector: $\|v\|$
 
-If the vector is in $\mathbb{R}^2$ and $\vec{v}=\langle2,3\rangle$:
+e.g. If the vector is in $\mathbb{R}^2$ and $\vec{v}=\langle2,3\rangle$:
 
 $$\begin{align*}
 \|\vec{v}\|&=\sqrt{2^2+3^2}\\
@@ -48,13 +48,14 @@ i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
 
 The dot product has the following properties:
 - Communitive | $u\cdot v$  = $v\cdot u$
--  Zero| $0\cdot v$  = $0$
--  | $0\cdot v$  = $0$
+-  Zero | $0\cdot v$  = $0$
+-  Distributive | $u\cdot (v + w)$  = $u\cdot v + u\cdot w$
+-  Square | $u\cdot u$  = $\|u\|^2$
 
-e.g. given $v_1=\langle 1,2,3\rangle$ and $v_{2}=\langle 4,5,6\rangle$ 
+e.g. Given $v=\langle 1,2,3\rangle$ and $w=\langle 4,5,6\rangle$ 
 
 $$\begin{align*}
-v_1=\langle 1,2,3\rangle \cdot v_{2}=\langle 4,5,6\rangle &= 1*4  + 2*5 + 3*6\\
+v\cdot w &= 1*4  + 2*5 + 3*6\\
 &=4 + 10 + 18\\
 &=32
 \end{align*}$$
