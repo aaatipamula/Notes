@@ -73,7 +73,7 @@ v\cdot w &= 1*4  + 2*5 + 3*6\\
 
 The following formula can be manipulated to find the *angle between two vectors*:
 
-$$\cos{\theta}=\frac{u\cdot v}{\|u\|\|v\|}$$
+$$\cos(\theta)=\frac{u\cdot v}{\|u\|\|v\|}$$
 
 # Cross Product
 

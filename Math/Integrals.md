@@ -76,7 +76,15 @@ The area under the curve is: $$\int_{0}^{4}x^{2}-\frac{x}{2}dx$$
 
 This is mostly useful when solving simpler two product integrals in the form $\int{u(x)v(x)}dx$ where $u(x)$ or a subsequent "part" can be *substituted* by the derivative of $v(x)$ or vice versa.
 
-e.g. Given $\int{cos(x)sin^2(x)}$ 
+e.g. Given $\int{\cos(x)\sin^2(x)}dx$  we could choose $u=\sin(x)$ which would make $du=\cos(x)dx$.
+
+Substituting in u we could come back with the equation:
+
+$$\int u^2du$$
+
+Which is a fairly simple integral to solve using the [[#Power Rule|power rule]]:
+
+
 
 ## Integration by Parts
 

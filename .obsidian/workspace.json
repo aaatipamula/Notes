@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planes.md",
+                "file": "Math/Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planes.md"
+                "file": "Math/Integrals.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planes.md",
+                "file": "Math/Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49bc7778b9578f47",
+  "active": "5eca33c92bb5f50b",
   "lastOpenFiles": [
     "Math/Vectors.md",
-    "Planes.md",
     "Math/Integrals.md",
+    "Planes.md",
     "Math/Calculus III.md",
     "Math/Calculus II.md",
     "Math/Series.md",
