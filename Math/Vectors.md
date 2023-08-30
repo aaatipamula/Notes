@@ -14,7 +14,7 @@ In $\mathbb{R}^3$:  $\textbf{i}=\langle1,0,0\rangle$ and $\textbf{j}=\langle0,1,
 
 
 The *magnitude* or  *length* of a vector can be found in one of the following ways.
-> Notation assuming $v$ is a vector: $\|v\|$
+> Notation: $\|v\|$  meaning the magnitude of vector v
 
 e.g. If the vector is in $\mathbb{R}^2$ and $\vec{v}=\langle2,3\rangle$:
 
@@ -36,13 +36,16 @@ $$\begin{align*}
 
 A dot product is an operation that is performed on two different vectors which produces a constant or *scalar*.
 
-If the dot product of two vectors is $0$ the angle between them is [orthogonal](https://en.wikipedia.org/wiki/Orthogonality).
+**If the dot product of two vectors is $0$ the angle between them is [orthogonal](https://en.wikipedia.org/wiki/Orthogonality).**
+
+The dot product has the following properties:
+- Communitive | $u\cdot v = v\cdot u$
+- Zero | $0\cdot v = 0$
+- Distributive | $u\cdot (v + w) = u\cdot v + u\cdot w$
+- Square | $u\cdot u = \|u\|^2$
+- Constant Multiple | $c(u\cdot v) = cv\cdot u = v\cdot cu$
 
 ## Calculations
-
-The following formula can be manipulated to find the angle between two vectors:
-
-$$\cos{\theta}=\frac{u\cdot v}{\|u\|\|v\|}$$
 
 The dot product of two vectors is found as the following in $\mathbb{R}^2$: 
 
@@ -54,13 +57,6 @@ Or in $\mathbb{R}^3$:
 $$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
 i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
 
-The dot product has the following properties:
-- Communitive | $u\cdot v = v\cdot u$
-- Zero | $0\cdot v = 0$
-- Distributive | $u\cdot (v + w) = u\cdot v + u\cdot w$
-- Square | $u\cdot u = \|u\|^2$
-- Constant Multiple | $c(u\cdot v) = cv\cdot u = v\cdot cu$
-
 e.g. Given $v=\langle 1,2,3\rangle$ and $w=\langle 4,5,6\rangle$ 
 
 $$\begin{align*}
@@ -69,8 +65,13 @@ v\cdot w &= 1*4  + 2*5 + 3*6\\
 &=32
 \end{align*}$$
 
+The following formula can be manipulated to find the *angle between two vectors*:
+
+$$\cos{\theta}=\frac{u\cdot v}{\|u\|\|v\|}$$
+
 # Cross Product
 
 A cross product is an operation performed between two different vectors which produces a resulting vector.
 
-The cross product of two vectors is always orthogonal to both vectors. 
+**The cross product of two vectors is always orthogonal to the two original vectors.**
+
