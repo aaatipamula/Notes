@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49bc7778b9578f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2925d52519ffc6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Vectors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5eca33c92bb5f50b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Linear Algebra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Integrals.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +151,8 @@
   },
   "active": "5eca33c92bb5f50b",
   "lastOpenFiles": [
-    "Math/Vectors.md",
     "Math/Integrals.md",
+    "Math/Vectors.md",
     "Planes.md",
     "Math/Calculus III.md",
     "Math/Calculus II.md",
