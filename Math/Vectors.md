@@ -99,8 +99,8 @@ Or
 
 $$r(t)=\langle a,b,c\rangle + t\langle A,B,C\rangle$$
 
-**Lines are parallel if the direction vectors of the two lines are magnitudes of one another.**
+**Lines are parallel if the direction vector of one line can be multiplied by a scalar to get the direction vector of the other.**
 
 e.g. Given two lines $r(t)=\langle 3t+1, 7t+13, 11t+8\rangle$ and $s(t)=\langle 30t+1, 70t+13, 110t+8\rangle$
 
-Lines $r$ and $s$ are *parallel* because each value of the direction vector of $r=\langle3,7,11\rangle$ is 
+Lines $r$ and $s$ are *parallel* because each component of the direction vector of $r=\langle3,7,11\rangle$ can be multiplied by $10$ to get the direction vector of $s=\langle30,70,110$.
