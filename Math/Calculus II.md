@@ -9,4 +9,6 @@
 ## [[Volume of Shapes]]
 ## [[Sequences]]
 ## [[Series]]
+## [[Vectors]]
+## [[Planes]]
 
