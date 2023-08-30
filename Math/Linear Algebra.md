@@ -20,6 +20,19 @@ Linear equations should only be simplified using invertible processes. This can 
 
 # Notation
 
+$\forall$  examples 
+
+$$a=
+\begin{vmatrix}
+a & b & c \\
+i & j & k \\
+x & y & z \\
+\end{vmatrix}$$
+
+**Multiply a Row by a Scalar**
+
+
+
 ## Definitions:
 
 **Augmented Matrices**:
