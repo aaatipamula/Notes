@@ -86,7 +86,7 @@ Which is a fairly simple integral to solve using the [[#Power Rule|power rule]]:
 
 $$\begin{align*}
 \int u^2du&=\frac{u^3}{3}+C\\
-&=\frac{\sin()^3}{#tab}
+&=\frac{\sin^3(x)}{3}+C
 \end{align*}$$
 
 ## Integration by Parts
