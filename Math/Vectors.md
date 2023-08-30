@@ -34,9 +34,12 @@ $$\begin{align*}
 
 # Dot Product
 
-The dot product of two vectors is a constant or *scalar*.
+A dot product is an operation that is performed on two different vectors which produces a constant or *scalar*.
 
-$\mult$
+The dot product of two vectors is found as the following: 
+
+$$\langle i_{1$$
+
 e.g. given $v_1=\langle a,b,c\rangle$ and $v_{2}\langle i,j,k\rangle$ 
 
 	
