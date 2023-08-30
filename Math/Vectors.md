@@ -47,7 +47,7 @@ The dot product has the following properties:
 
 ## Calculations
 
-The dot product of two vectors is found as the following in $\mathbb{R}^2$: 
+The dot product of two vectors is found as following in $\mathbb{R}^2$: 
 
 $$\langle i_{1}, j_{1}\rangle \cdot \langle i_{2}, j_{2}\rangle=
 i_{1}*i_{2} + j_{1}*j_{2}$$
@@ -78,7 +78,11 @@ A cross product is an operation performed between two different vectors which pr
 ## Calculations
 
 
-The Co in $\mathbb{R}^3$: 
+The cross product of two vectors can be found as following in $\mathbb{R}^3$: 
 
-$$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
-i_{1}*i_{2} + j_{1}*j_{2} + k_{1}*k_{2}$$
+$$\langle i_{1}, j_{1}, k_{1}\rangle \times \langle i_{2}, j_{2}, k_{2}\rangle=
+\langle j_{1}*i_{2} - k_{1}*j_{2}, k_{1}*i_{2} - i_{1}*k_{2}, i_{1}*j_{2} - j_{1}*i_{2} \rangle$$
+
+The following formula can be manipulated to find the *angle between two vectors*
+
+$$\sin{\theta}=\frac{\|u\times v\|}{\|u\|\|v\|}$$
