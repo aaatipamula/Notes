@@ -36,10 +36,16 @@ $$\begin{align*}
 
 A dot product is an operation that is performed on two different vectors which produces a constant or *scalar*.
 
-The dot product of two vectors is found as the following: 
+The dot product of two vectors is found as the following in $\mathbb{R}^2$: 
 
-$$\langle i_{1$$
+$$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
+\langle i_{1} + i_{2}, j_{1} + j_{2}, k_{1} + k_{2}\rangle$$
 
-e.g. given $v_1=\langle a,b,c\rangle$ and $v_{2}\langle i,j,k\rangle$ 
+Or in $\mathbb{R}^3$: 
+
+$$\langle i_{1}, j_{1}, k_{1}\rangle \cdot \langle i_{2}, j_{2}, k_{2}\rangle=
+\langle i_{1} + i_{2}, j_{1} + j_{2}, k_{1} + k_{2}\rangle$$
+
+e.g. given $v_1=\langle 1,2,3\rangle$ and $v_{2}=\langle 4,5,6\rangle$ 
 
 	
