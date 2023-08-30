@@ -14,6 +14,8 @@ In $\mathbb{R}^3$:  $\textbf{i}=\langle1,0,0\rangle$ and $\textbf{j}=\langle0,1,
 
 The **magnitude** or  **length** of a vector can be found in one of the following ways.
 
+e.g.
+
 If the vector is in $\mathbb{R}^2$ and $\vec{v}=\langle2,3\rangle$:
 
 $$\begin{align*}
@@ -29,4 +31,10 @@ $$\begin{align*}
 &=\sqrt{4+9+16}\\
 &=\sqrt{29}
 \end{align*}$$
+
+# Dot Product
+
+The dot product of two vectors is a constant or *scalar*.
+
+e.g. given 
 	
