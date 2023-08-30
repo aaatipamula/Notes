@@ -119,4 +119,6 @@ A *linear combination* of points/[[Vectors]]/columns
 
 Is (*informally*) any point/vector/column that can be constructed with using point ($x_1$, $x_n$) and ($y_1$, $y_n$)	(*formally*) any point/vector/column of the form $\alpha x + \beta y$ where $\alpha$ and $\beta$ are constants.
 
-e.g. given the points $a=(1,1)$ and $(2,3)$ any point on the line created by 
+e.g. 
+
+Given the points $a=(1,1)$ and $b=(2,3)$ any point on the line created by points $a$ and $b$ would be a *linear combo*. Any point outside the line would *not* be a linear combo.
