@@ -42,7 +42,7 @@ If the dot product of two vectors is $0$ the angle between them is [orthogonal](
 
 The following formula can be manipulated to find the angle between two vectors:
 
-$\cos{\theta}$
+$$\cos{\theta}=\frac{u\cdot v}{\|u\|\|v\|}$$
 
 The dot product of two vectors is found as the following in $\mathbb{R}^2$: 
 
@@ -71,4 +71,6 @@ v\cdot w &= 1*4  + 2*5 + 3*6\\
 
 # Cross Product
 
-A cross pr
+A cross product is an operation performed between two different vectors which produces a resulting vector.
+
+The cross product of two vectors is always orthogonal to both vectors. 
