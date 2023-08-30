@@ -78,13 +78,16 @@ This is mostly useful when solving simpler two product integrals in the form $\i
 
 e.g. Given $\int{\cos(x)\sin^2(x)}dx$  we could choose $u=\sin(x)$ which would make $du=\cos(x)dx$.
 
-Substituting in u we could come back with the equation:
+Substituting in $u$ and $du$ we come back with the equation:
 
 $$\int u^2du$$
 
 Which is a fairly simple integral to solve using the [[#Power Rule|power rule]]:
 
-
+$$\begin{align*}
+\int u^2du&=\frac{u^3}{3}+C\\
+&=\frac{\sin()^3}{#tab}
+\end{align*}$$
 
 ## Integration by Parts
 
