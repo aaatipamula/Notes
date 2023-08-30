@@ -36,6 +36,10 @@ Linear equations should only be simplified using invertible processes. This can 
 **Echelon Form** :
 #echelon-form ^c7cfce
 
+A matrix is in echelon form if:
+- The bottom row consists of only 0
+- The left most non-zero entry of each row is to the right of the leading entry from the row above.
+
 **Reduced Row Echelon Form (RREF)**:
 
 A matrix is reduced if:
