@@ -6,9 +6,15 @@ Vectors are have two properties, [[#Magnitude]] and *direction*
 
 ## Special Vectors
 
-The *zero-vector* has **no magnitude** and **no direction**. in $\mathbb{R}^2$ and $\mathbb{R}^3$
+**The *zero-vector* has *no magnitude* and *no direction*. in $\mathbb{R}^2$ and $\mathbb{R}^3$**
 
-A *unit vector* is a vector with [[#magnitude]] of 1 or $$||\vec{v}||=1$$
+**A *unit vector* is a vector with [[#magnitude]] of 1 or** 
+
+$$||\vec{v}||=1$$
+
+Given a vector $\vec{v}$ the unit vector can be found using the following:
+
+$$\frac{\vec{v}}{\|\vec{v}\|}$$
 
 ## Standard Basis Vectors
 
