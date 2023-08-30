@@ -110,3 +110,11 @@ $$r(t)=\langle a,b,c\rangle + t\langle A,B,C\rangle$$
 e.g. Given two lines $r(t)=\langle 3t+1, 7t+13, 11t+8\rangle$ and $s(t)=\langle 30t+1, 70t+13, 110t+8\rangle$
 
 Lines $r$ and $s$ are *parallel* because each component of the direction vector of $r=\langle3,7,11\rangle$ can be multiplied by $10$ to get the direction vector of $s=\langle30,70,110$.
+
+# Definitions
+
+**Linear Combinations**
+
+A *linear combination* of points/[[Vectors]]/columns
+
+Is (*informally*) any point/[[Vectors]]/column that can be constructed with using point ($x_1$, $x_n$) and ()

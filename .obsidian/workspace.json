@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ebe78b040812b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Vectors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "Math/Vectors.md"
               }
             }
           },
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eca33c92bb5f50b",
+  "active": "3ebe78b040812b85",
   "lastOpenFiles": [
-    "Math/Integrals.md",
+    "Math/Linear Algebra.md",
     "Math/Vectors.md",
+    "Math/Integrals.md",
     "Planes.md",
     "Math/Calculus III.md",
     "Math/Calculus II.md",
@@ -162,7 +177,6 @@
     "Discrete Structures.md",
     "Propositional Logic.md",
     "Math/Integration by Parts.md",
-    "Math/Linear Algebra.md",
     "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Untitled.md",

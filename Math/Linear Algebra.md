@@ -34,7 +34,7 @@ $R_{i}\rightarrow C\cdot R_i$
 
 e.g. $R_1\rightarrow R_1$
 
-## Definitions:
+# Definitions:
 
 **Augmented Matrices**:
 
@@ -60,10 +60,10 @@ A matrix is reduced if:
 - It is in *echelon form*. #echelon-form
 - A leading $1$ is the only non-zero value in the row.
 
-## Theorems
+# Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
-> This process is also called *gaussian elimination* #gaussian-elim 
+> This process is also called *gaussian elimination* #gaussian-elim
 
 # Topics
 
