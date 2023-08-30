@@ -89,6 +89,7 @@ $$\sin{\theta}=\frac{\|u\times v\|}{\|u\|\|v\|}$$
 
 # Lines
 
-Lines in $\mathbb{R}^3$ can take one of the three following forms:
+Lines in $\mathbb{R}^3$ can take one of the two following forms:
 
-1. 
+1. Parameterized | $r(t)=\langle At+a, Bt+b, Ct+c\rangle$ or $r(t)=\langle a,b,c\rangle + t\langle A,B,C\rangle$
+2.  Vector Form | $$
