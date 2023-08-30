@@ -8,4 +8,8 @@ Assuming the normal [[Vectors|vector]] to the plane $\vec{n}=\langle A,B,C\rangl
 
 $$A(x-a)+B(y-b)+C(z-c)=0$$
 
-e.g. Given $\vec{n}=\langle3,7,1\rangle$ and point $P=(3,9,0)$ exists on the the pl
+e.g. Given $\vec{n}=\langle3,7,1\rangle$ and point $P=(3,9,0)$ exists on the the plane.
+
+$$3(x-3)+7(y-9)+1(z-0)=0$$
+
+
