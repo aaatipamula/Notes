@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "cb544f685f5d5be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Series.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1c1d2741967086fd",
             "type": "leaf",
             "state": {
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Vectors.md"
+                "file": "Math/Series.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,21 +176,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c1d2741967086fd",
+  "active": "cb544f685f5d5be9",
   "lastOpenFiles": [
+    "Math/Calculus II.md",
+    "Math/Integrals.md",
     "Math/Calculus III.md",
+    "Math/Curves and Surfaces.md",
     "Math/Vectors.md",
     "Discrete Structures.md",
     "Propositional Logic.md",
-    "Math/Quadratic Sufaces.md",
-    "Math/Integrals.md",
     "Math/Integration by Parts.md",
     "Math/Linear Algebra.md",
     "Math/Direct Substitution.md",
     "Math/Limits.md",
     "Untitled.md",
     "Pasted image 20230823113640.png",
-    "Math/Calculus II.md",
     "Math/Multivariable Calculus.md",
     "Software Engineering.md",
     "Math/Volume of Shapes.md",

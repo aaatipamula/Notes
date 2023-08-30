@@ -6,7 +6,6 @@
 # Topics
 
 ## [[Vectors]]
-## [[Quadratic Sufaces]]
-## [[Multivariable Calculus]]
 ## [[Curves and Surfaces]]
+## [[Multivariable Calculus]]
 ## [[Vector Calculus]]
