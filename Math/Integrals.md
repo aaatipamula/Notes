@@ -4,7 +4,7 @@ The basic idea behind the an integral is to find the area under a curve of a fun
 
 # Indefinite Integrals:
 
-An *indefinite integral* is essentially the inverse operation to taking a [[Derivatives|derivative]], this may also known as an **anti-derivative**.
+An *indefinite integral* is essentially the inverse operation to taking a [[Derivatives|derivative]], this may also known as an *anti-derivative*.
 
 # Improper Integrals:
 
