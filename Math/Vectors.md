@@ -36,6 +36,14 @@ $$\begin{align*}
 
 A dot product is an operation that is performed on two different vectors which produces a constant or *scalar*.
 
+If the dot product of two vectors is $0$ the angle between them is [orthogonal](https://en.wikipedia.org/wiki/Orthogonality).
+
+## Calculations
+
+The following formula can be manipulated to find the angle between two vectors:
+
+$\cos{\theta}$
+
 The dot product of two vectors is found as the following in $\mathbb{R}^2$: 
 
 $$\langle i_{1}, j_{1}\rangle \cdot \langle i_{2}, j_{2}\rangle=
@@ -63,3 +71,4 @@ v\cdot w &= 1*4  + 2*5 + 3*6\\
 
 # Cross Product
 
+A cross pr
