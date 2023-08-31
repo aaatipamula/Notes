@@ -11,7 +11,7 @@ These include the following:
 
 ## Predicates
 
-Predicates become [[Propositional Logic]] (with truth values) when their vairables are replaced by a value in the *domain* (bound by a [[#Quanifiers:]]).
+Predicates become [[Propositional Logic]] (with truth values) when their variables are replaced by a value in the *domain* (bound by a [[#Quanifiers:]]).
 
 $P(x)$ is said to be the value of  the Predicate *P at x*.
 

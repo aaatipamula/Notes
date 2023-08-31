@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Alternating Series Test.md",
-                "mode": "preview",
+                "file": "CS/Propositional Logic.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Alternating Series Test.md",
+                "file": "CS/Propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Alternating Series Test.md"
+                "file": "CS/Propositional Logic.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Alternating Series Test.md",
+                "file": "CS/Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,7 @@
   },
   "active": "17d9134854be578a",
   "lastOpenFiles": [
+    "Math/Alternating Series Test.md",
     "Math/Absolute Convergence.md",
     "Math/L'Hopitals Rule.md",
     "Math/Limits.md",
@@ -177,7 +178,6 @@
     "CS/Propositional Logic.md",
     "Math/Integration by Parts.md",
     "Math/Multivariable Calculus.md",
-    "Math/Calculus I.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal",
