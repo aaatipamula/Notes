@@ -12,4 +12,4 @@ e.g. given $\lim_{x\to1}\frac{\cos(\frac{\pi}{2}x)}{\sin(\pi x)}$ the solution i
 $$
 \lim_{x\to1}\frac{\cos(\frac{\pi}{2}x)}{\sin(\pi x)}=\lim_{x\to1}\frac{-\frac{\pi}{2}\sin(\frac{\pi}{2}x)}{\pi \cos(\pi x)}$$
 
-From there you can simply [[#Direct Substitution|directly substitute]] to get the solution.
+From there you can simply [[Direct Substitution|directly substitute]] to get the solution.
