@@ -47,3 +47,15 @@ e.g. let $P(x)$ be an arbitrary predicate
 
 $\forall x P(x)$ asserts P(x) is true *for all* $x$ in the domain $U$
 $\exists x P(x)$ asserts P(x) is true for *some* $x$ in the domain $U$
+
+## Nested Quantifiers
+
+These are often necessary to express the meaning of sentences in english and other concepts in computer science, and math.
+
+e.g. 
+
+"Every real number has an inverse" 
+
+is equal to
+
+$\forall x \exists y(x+y=0)$
