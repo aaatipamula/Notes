@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Propositional Logic.md",
-                "mode": "source",
+                "file": "Math/Linear Algebra.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Propositional Logic.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Propositional Logic.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Propositional Logic.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "17d9134854be578a",
   "lastOpenFiles": [
+    "CS/Propositional Logic.md",
     "Math/Alternating Series Test.md",
     "Math/Absolute Convergence.md",
     "Math/L'Hopitals Rule.md",
@@ -176,7 +177,6 @@
     "Attachments/Photos/Pasted image 20230823113640.png",
     "Math/Calculus III.md",
     "Math/Curves and Surfaces.md",
-    "CS/Propositional Logic.md",
     "Math/Integration by Parts.md",
     "Math/Multivariable Calculus.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
