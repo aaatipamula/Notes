@@ -21,17 +21,11 @@ As mentioned before these have a vertical asymptote.
 
 General Form:
 
-$$$$
-
 ### Type II
 
 As mentioned before these have a horizontal asymptote. 
 
 General Form:
-
-
-$$$$
-
 # Surfaces
 
 ## Ellipsoid
