@@ -11,12 +11,14 @@
             "id": "17d9134854be578a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Math/Linear Algebra.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "test.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.22002455075581867
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "test.canvas"
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +153,8 @@
   },
   "active": "17d9134854be578a",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
+    "test.canvas",
     "CS/Propositional Logic.md",
     "Math/Alternating Series Test.md",
     "Math/Absolute Convergence.md",
@@ -166,7 +170,6 @@
     "Math/Vectors.md",
     "Math/Volume of Shapes.md",
     "Math/Calculus II.md",
-    "Math/Linear Algebra.md",
     "CS/Git Server Setup.md",
     "CS/Discrete Structures.md",
     "CS/WireGuard Setup.md",
@@ -178,7 +181,6 @@
     "Math/Calculus III.md",
     "Math/Curves and Surfaces.md",
     "Math/Integration by Parts.md",
-    "Math/Multivariable Calculus.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
     "Journal",
@@ -186,7 +188,6 @@
     "Attachments/Photos",
     "Attachments",
     "Computer Science",
-    "Math",
-    "Untitled.canvas"
+    "Math"
   ]
 }
