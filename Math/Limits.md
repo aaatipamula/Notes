@@ -26,8 +26,13 @@ These are forms that limits may take where the limit cannot be calculated by nor
 
 # Special Limits
 
-Limits -> $\infty$: $$\lim_{x\to\pm\infty}\frac{c}{x}=0\quad$$
-Limits -> 0:$$\lim_{x\to0} \frac{\sin{x}}{x}=1 \quad \lim_{x\to0} \frac{1-\cos{x}}{x}=0 \quad \lim_{x\to0} \frac{\tan{x}}{x}=1$$
+Limits -> $\infty$:
+
+$$\lim_{x\to\pm\infty}\frac{c}{x}=0\quad$$
+
+Limits -> 0:
+
+$$\lim_{x\to0} \frac{\sin{x}}{x}=1 \quad \lim_{x\to0} \frac{1-\cos{x}}{x}=0 \quad \lim_{x\to0} \frac{\tan{x}}{x}=1$$
 
 # Calculating Limits
 
