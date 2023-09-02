@@ -32,19 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "bd8b6ec8b3663756",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd8b6ec8b3663756",
+  "active": "773b050066095154",
   "lastOpenFiles": [
     "Math/Calculus III.md",
     "test.canvas",
