@@ -74,4 +74,3 @@ Composed of:
 *A valid argument where premises are known truths*
 
 
-
