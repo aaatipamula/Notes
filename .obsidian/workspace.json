@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Curves and Surfaces.md",
-                "mode": "source",
+                "file": "Math/Limits.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Curves and Surfaces.md",
+                "file": "Math/Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Curves and Surfaces.md"
+                "file": "Math/Limits.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Curves and Surfaces.md",
+                "file": "Math/Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   },
   "active": "053375eab41a3c82",
   "lastOpenFiles": [
+    "Math/Calculus I.md",
+    "Math/Curves and Surfaces.md",
     "Math/Calculus III.md",
     "test.canvas",
     "Math/Linear Algebra.md",
@@ -201,7 +203,6 @@
     "CS",
     "Untitled.md",
     "Attachments/Photos/Pasted image 20230823113640.png",
-    "Math/Curves and Surfaces.md",
     "Math/Integration by Parts.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
