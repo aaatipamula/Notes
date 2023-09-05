@@ -62,14 +62,16 @@ $\forall x \exists y(x+y=0)$
 
 # Rules of Inference
 
-##  Valid Argument
+**Valid Argument**
 
 Composed of:
 - Premises
 - Conclusion
 - Steps of reasoning to get from premises to conclusion.
 
-## Proof
+**Proof**
 
-**A valid argument where 
+*A valid argument where premises are known truths*
+
+
 
