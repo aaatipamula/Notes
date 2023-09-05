@@ -60,4 +60,16 @@ is equal to
 
 $\forall x \exists y(x+y=0)$
 
-# 
+# Rules of Inference
+
+##  Valid Argument
+
+Composed of:
+- Premises
+- Conclusion
+- Steps of reasoning to get from premises to conclusion.
+
+## Proof
+
+**A valid argument where 
+
