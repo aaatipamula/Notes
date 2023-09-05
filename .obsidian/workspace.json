@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Limits.md",
-                "mode": "preview",
+                "file": "Math/Curves and Surfaces.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "053375eab41a3c82",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Limits.md",
+                "file": "Math/Curves and Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Limits.md"
+                "file": "Math/Curves and Surfaces.md"
               }
             }
           },
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Limits.md",
+                "file": "Math/Curves and Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +163,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053375eab41a3c82",
+  "active": "773b050066095154",
   "lastOpenFiles": [
-    "Math/Calculus I.md",
-    "Math/Curves and Surfaces.md",
     "Math/Calculus III.md",
     "test.canvas",
     "Math/Linear Algebra.md",
@@ -203,6 +191,7 @@
     "CS",
     "Untitled.md",
     "Attachments/Photos/Pasted image 20230823113640.png",
+    "Math/Curves and Surfaces.md",
     "Math/Integration by Parts.md",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
