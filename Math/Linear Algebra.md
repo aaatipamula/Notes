@@ -62,13 +62,13 @@ A matrix is reduced if:
 
 **Homogeneous Systems**
 
-A homogeneous (linear) system is in which every RHS is 0
+A homogeneous (linear) system is one in which every RHS is 0
 
 > *Note*: Homogeneous system have many nice (special) properties!
 
 Basic Properties of Homogeneous Systems:
-- There is always one *trivial*
-
+- There is always one *trivial* solution; i.e. set all unknown vars = 0
+- There is a Dichotomy of solutions, the *trivial* solution or $\infty$ many
 
 # Theorems
 
