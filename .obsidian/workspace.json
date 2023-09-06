@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Vectors.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "028ca67ba0576716",
+  "active": "6feb4e2f456ece06",
   "lastOpenFiles": [
-    "Math/Linear Algebra.md",
     "Math/Vectors.md",
+    "Math/Linear Algebra.md",
     "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
     "Math/Curves and Surfaces.md",

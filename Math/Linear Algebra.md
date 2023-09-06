@@ -71,7 +71,6 @@ Basic Properties of Homogeneous Systems:
 - There is a Dichotomy of solutions, the *trivial* solution or $\infty$ many
 - A  *Linear Combo* of solutions to a homogeneous system is also a solution. #linear-combo
 
-
 # Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
