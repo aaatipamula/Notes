@@ -60,6 +60,16 @@ A matrix is reduced if:
 - It is in *echelon form*. #echelon-form
 - A leading $1$ is the only non-zero value in the row.
 
+**Homogeneous Systems**
+
+A homogeneous (linear) system is in which every RHS is 0
+
+> *Note*: Homogeneous system have many nice (special) properties!
+
+Basic Properties of Homogeneous Systems:
+- There is always one *trivial*
+
+
 # Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
