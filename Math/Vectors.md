@@ -119,6 +119,7 @@ Lines $r$ and $s$ are *parallel* because each component of the direction vector 
 # Definitions
 
 **Linear Combinations**
+#linea
 
 A *linear combination* of points/[[Vectors]]/columns
 

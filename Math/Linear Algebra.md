@@ -69,6 +69,8 @@ A homogeneous (linear) system is one in which every RHS is 0
 Basic Properties of Homogeneous Systems:
 - There is always one *trivial* solution; i.e. set all unknown vars = 0
 - There is a Dichotomy of solutions, the *trivial* solution or $\infty$ many
+- A  *Linear Combo* of solutions to a homogeneous system is also a solution. #linear-combo
+
 
 # Theorems
 
