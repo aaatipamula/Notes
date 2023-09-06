@@ -73,6 +73,7 @@ Basic Properties of Homogeneous Systems:
 # Theorems
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
+
 > This process is also called *gaussian elimination* #gaussian-elim
 
 # Topics
