@@ -72,5 +72,3 @@ Composed of:
 **Proof**
 
 *A valid argument where premises are known truths*
-
-

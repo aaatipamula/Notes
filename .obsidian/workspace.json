@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Discrete Structures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "028ca67ba0576716",
+            "id": "1c1a83e34e0a16e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "CS/Propositional Logic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "CS/Propositional Logic.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,12 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6feb4e2f456ece06",
+  "active": "1c1a83e34e0a16e7",
   "lastOpenFiles": [
     "Math/Vectors.md",
-    "Math/Linear Algebra.md",
     "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
+    "Math/Linear Algebra.md",
     "Math/Curves and Surfaces.md",
     "Math/Calculus III.md",
     "test.canvas",
