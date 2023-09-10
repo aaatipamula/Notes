@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Propositional Logic.md",
+                "file": "Math/Linear Algebra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Propositional Logic.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Propositional Logic.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Propositional Logic.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "1c1a83e34e0a16e7",
   "lastOpenFiles": [
-    "Math/Vectors.md",
     "CS/Propositional Logic.md",
+    "Math/Vectors.md",
     "CS/Discrete Structures.md",
     "Math/Linear Algebra.md",
     "Math/Curves and Surfaces.md",
