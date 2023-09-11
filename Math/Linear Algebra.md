@@ -83,6 +83,12 @@ Basic Properties of Homogeneous Systems:
 - There is a Dichotomy of solutions, the *trivial* solution or $\infty$ many
 - A  *Linear Combo* of solutions to a homogeneous system is also a solution. #linear-combo
 
+# Applications
+
+## Ancient Greeks
+
+*"Any two distinct points determine a line"*
+
 # Topics
 
 ## [[Vectors]]
