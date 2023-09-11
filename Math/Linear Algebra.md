@@ -64,6 +64,14 @@ A matrix is reduced if:
 
 A homogeneous (linear) system is one in which every RHS is 0
 
+e.g.
+
+$$\begin{vmatrix}  \\ 
+&1 &2 &0
+&2 &2 &0
+&0 &6 &0
+\end{vmatrix}$$
+
 > *Note*: Homogeneous system have many nice (special) properties!
 
 Basic Properties of Homogeneous Systems:
@@ -72,10 +80,6 @@ Basic Properties of Homogeneous Systems:
 - A  *Linear Combo* of solutions to a homogeneous system is also a solution. #linear-combo
 
 # Theorems
-
-Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
-
-> This process is also called *gaussian elimination* #gaussian-elim
 
 # Topics
 
