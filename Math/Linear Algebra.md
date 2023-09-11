@@ -87,7 +87,9 @@ Basic Properties of Homogeneous Systems:
 
 ## Ancient Greeks
 
-*"Any two distinct points determine a line"*
+Any two distinct points determine a line.
+
+Any 3 points that *do not lie on the same line*  determine a circle.
 
 # Topics
 
