@@ -32,19 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "2a553dbff9aeb7ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a553dbff9aeb7ab",
+  "active": "1c1a83e34e0a16e7",
   "lastOpenFiles": [
     "CS/Propositional Logic.md",
     "Math/Vectors.md",
