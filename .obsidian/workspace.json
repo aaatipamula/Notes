@@ -32,9 +32,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2a553dbff9aeb7ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,6 +154,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "02757bf627343962",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -163,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c1a83e34e0a16e7",
+  "active": "2a553dbff9aeb7ab",
   "lastOpenFiles": [
     "CS/Propositional Logic.md",
     "Math/Vectors.md",
