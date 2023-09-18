@@ -38,13 +38,16 @@ print(return_val)
 return_val = divide_vals(**mydictionary)
 print(return_val)
 
+# Unpack incorrect list into function
+return_val = divide_vals(*mytuple)
+print(return_val)
+
 # Convention
 def myfunction(*args, **kwargs):
 	print(*args, sep="\n")
 	print(add_args(*args))
 	print(**kwargs)
 	print(divide_vals(**kwargs))
-
 ```
 
 # Conditional Variable Assignment
