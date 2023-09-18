@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -185,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00d19d6d2a38e23",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
     "Math/Linear Algebra.md",
     "CS/Python Advanced.md",
