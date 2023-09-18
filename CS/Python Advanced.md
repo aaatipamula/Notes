@@ -107,9 +107,16 @@ print(statement)
 ```python
 mylist = [1, 2, 3, 4, 5, 6, 7, 8]
 
-for index in range(len(mylist)):
-	if index == 3:
-		print(f"reached index 3 with value: {mylist[index]}")
+myfunc(iterable, print_index)
+	for index in range(len(iterable)):
+		if index == print_index:
+			print(f"Reached index {index} with value: {mylist[index]}")
+
+myfunc(iterable, print_index)
+	for index, value in enumerate(iterable):
+		if index == print_index:
+			print(f"Reached index {index} with value: {mylist[index]}")
+
 ```
 # Generators
 
