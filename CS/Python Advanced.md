@@ -80,12 +80,37 @@ print(myvar)
 # Global Variable Scope
 ```python
 x = 10
-statement = "Hello"
+statement = ""
 
-if x > 5:
-	state	
+myFunc(val):
+	if val > 5:
+		statement = "Hello"
+	else:
+		statement = "Bye"
+
+myFuncGlobal(val):
+	global statement
+	if val > 5:
+		statement = "Hello"
+	else:
+		statement = "Bye"
+
+myFunc(x)
+print(statement)
+
+myFuncGlobal(x)
+print(statement)
 ```
+
+> Yes you can just return the value of statement and print that, but sometimes you want to make a change to a variable that determines how the ENTIRE program runs.
 # Enumerate
+```python
+mylist = [1, 2, 3, 4, 5, 6, 7, 8]
+
+for index in range(len(mylist)):
+	if index == 3:
+		print(f"reached index 3 with value: {mylist[index]}")
+```
 # Generators
 
 # Decorators
