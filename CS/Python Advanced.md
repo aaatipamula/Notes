@@ -59,11 +59,33 @@ myfunction(1, 2, 4, 10, val1="thing1", val2="thing2", val3="thing3")
 
 # Conditional Variable Assignment
 
+> While this may seem somewhat useless it sort of comes in handy for quick conversions using conditions
+
 ```python
 mycondition = True
 
-myvar = 
+# e.g. 
+myvar = None
+if mycondition: 
+	myvar = "yes"
+else:
+	myvar = "no"
+print(myvar)
+
+# becomes
+myvar = "yes" if mycondition else "no"
+print(myvar)
 ```
+
+# Global Variable Scope
+```python
+x = 10
+statement = "Hello"
+
+if x > 5:
+	state	
+```
+# Enumerate
 # Generators
 
 # Decorators
