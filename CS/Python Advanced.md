@@ -115,7 +115,7 @@ myfunc(iterable, print_index)
 myfunc(iterable, print_index)
 	for index, value in enumerate(iterable):
 		if index == print_index:
-			print(f"Reached index {index} with value: {mylist[index]}")
+			print(f"Reached index {index} with value: {value}")
 
 ```
 # Generators
@@ -127,4 +127,3 @@ myfunc(iterable, print_index)
 # List and Dictionary Comprehensions
 
 # PDB/VS Code Debugger
-
