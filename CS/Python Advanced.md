@@ -1,5 +1,7 @@
 # Unpacking
 
+Python allows for something called variable unpacking, 
+
 ```python
 mylist = [11, 45]
 mytuple = ("thing1", 2)
@@ -12,8 +14,9 @@ def divide_vals(*, val1=1, val2=1):
 val1, val2 = mylist
 print(val1, val2, sep="\n")
 
-#Unpack list into function
-print(*myoptions, sep="\n")
+#Unpack list/tuple into function
+print(*mylist, sep="\n")
+print(*mytuple, sep="\n")
 
 # Unpack dictionary into function
 return_val = divide_vals(**mydictionary)
