@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6c548244b2aaf30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Python Advanced.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -101,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Python Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "CS/Python Advanced.md"
               }
             }
           },
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Python Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c1a83e34e0a16e7",
+  "active": "b00d19d6d2a38e23",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
+    "CS/Python Advanced.md",
     "CS/Propositional Logic.md",
     "Math/Vectors.md",
     "CS/Discrete Structures.md",
-    "Math/Linear Algebra.md",
     "Math/Curves and Surfaces.md",
     "Math/Calculus III.md",
     "test.canvas",
