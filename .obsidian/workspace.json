@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "70586c752abc79c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70586c752abc79c2",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
     "Math/Linear Algebra.md",
+    "Math/Vectors.md",
     "CS/Python Advanced.md",
     "CS/Propositional Logic.md",
-    "Math/Vectors.md",
     "CS/Discrete Structures.md",
     "Math/Curves and Surfaces.md",
     "Math/Calculus III.md",
