@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "70586c752abc79c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "70586c752abc79c2",
   "lastOpenFiles": [
     "Math/Linear Algebra.md",
     "CS/Python Advanced.md",
