@@ -120,8 +120,29 @@ myfunc(iterable, print_index)
 ```
 # Generators
 ```python
-def mygenerator(num):
-	while 
+# Useful when dealing with large sets, lists, tuples that can't be stored in memory.
+# Can also be used to make objects iterable!
+def mygenerator(n):
+	num = 0
+	while num < n:
+		yield num * 10
+		num += 1
+
+class myClass:
+	def __init__(self):
+		self.classlist = []
+
+	# Make class iterable
+	def __iter__(self):
+		return self
+
+	# Python 3 compatibility
+	def __next__(self):
+		return self.next()
+
+	# Generator function
+	def next(self):
+		for val in 
 ```
 # Decorators
 
