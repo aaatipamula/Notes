@@ -132,18 +132,20 @@ def mygenerator(n):
 for val in mygenerator():
 	print(val)
 
+import base64
+
 # Use it in a class!
 class myClass:
 	def __init__(self):
-		self.class_list = [1, 3, 4, 5, 6, 7]
+		self.class_list = ["Dave", "Maria", "Arjun", "Minjoon", "Sunday", "Naatya"]
 
-	def class_list_str(self):
+	def class_list_b64(self):
 		for val in self.class_list:
-			ord()
+			
 			yield 
 
 testClass = myClass()
-for val in testClass.classlist():
+for val in testClass.class_list_b64():
 	print(val)
 ```
 
