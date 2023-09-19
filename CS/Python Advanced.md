@@ -1,7 +1,5 @@
 # Unpacking
 
-Python allows for something called variable unpacking, 
-
 ```python
 mylist = [11, 45]
 mytuple = ("thing1", 2, 3)
@@ -78,6 +76,7 @@ print(myvar)
 ```
 
 # Global Variable Scope
+
 ```python
 x = 10
 statement = ""
@@ -103,7 +102,9 @@ print(statement)
 ```
 
 > Yes you can just return the value of statement and print that, but sometimes you want to make a change to a variable that determines how the ENTIRE program runs.
+
 # Enumerate
+
 ```python
 mylist = [1, 2, 3, 4, 5, 6, 7, 8]
 
@@ -118,36 +119,38 @@ myfunc(iterable, print_index)
 			print(f"Reached index {index} with value: {value}")
 
 ```
+
 # Generators
+
 ```python
 # Useful when dealing with large sets, lists, tuples that can't be stored in memory.
-# Can also be used to make objects iterable!
 def mygenerator(n):
 	num = 0
 	while num < n:
 		yield num * 10
 		num += 1
 
+for val in mygenerator():
+	print(val)
+
+# Use it in a class!
 class myClass:
 	def __init__(self):
-		self.classlist = []
+		self.classlist = [1, 3, 4, 5, 6, 7]
 
-	# Make class iterable
-	def __iter__(self):
-		return self
+	def generator(self):
+		for val in self.classlist:
+			yield val
 
-	# Python 3 compatibility
-	def __next__(self):
-		return self.next()
-
-	# Generator function
-	def next(self):
-		for val in 
+testClass = myClass()
+for val in testClass.generator():
+	print(val)
 ```
+
 # Decorators
 
 # Type Annotation
 
-# List and Dictionary Comprehensions
-
 # PDB/VS Code Debugger
+
+# List and Dictionary Comprehensions
