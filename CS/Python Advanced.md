@@ -119,7 +119,10 @@ myfunc(iterable, print_index)
 
 ```
 # Generators
-
+```python
+def mygenerator(num):
+	while 
+```
 # Decorators
 
 # Type Annotation
