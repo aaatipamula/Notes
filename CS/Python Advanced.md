@@ -117,7 +117,6 @@ myfunc(iterable, print_index)
 	for index, value in enumerate(iterable):
 		if index == print_index:
 			print(f"Reached index {index} with value: {value}")
-
 ```
 
 # Generators
@@ -136,14 +135,15 @@ for val in mygenerator():
 # Use it in a class!
 class myClass:
 	def __init__(self):
-		self.classlist = [1, 3, 4, 5, 6, 7]
+		self.class_list = [1, 3, 4, 5, 6, 7]
 
-	def generator(self):
-		for val in self.classlist:
-			yield val
+	def class_list_str(self):
+		for val in self.class_list:
+			ord()
+			yield 
 
 testClass = myClass()
-for val in testClass.generator():
+for val in testClass.classlist():
 	print(val)
 ```
 
