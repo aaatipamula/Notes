@@ -139,10 +139,13 @@ class myClass:
 	def __init__(self):
 		self.class_list = ["Dave", "Maria", "Arjun", "Minjoon", "Sunday", "Naatya"]
 
+	# Return a base64 encoded string version of each name
 	def class_list_b64(self):
-		for val in self.class_list:
-			
-			yield 
+		for name in self.class_list:
+			nameb = name.encode("ascii")
+			nameb_b64 = base64.b64encode(nameb)
+			name_b64 = nameb_b64.decode("ascii")
+			yield name_b64
 
 testClass = myClass()
 for val in testClass.class_list_b64():
@@ -150,7 +153,8 @@ for val in testClass.class_list_b64():
 ```
 
 # Decorators
-
+```python
+```
 # Type Annotation
 
 # PDB/VS Code Debugger
