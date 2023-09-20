@@ -23,4 +23,5 @@ A + B = B + A #associative-property
 $\alpha$(A + B) = $\alpha$A + $\alpha$B #distributive-property
 $\alpha + \beta$(A + B) = $\alpha$A + $\beta$B #distributive-property 
 ($\alpha\beta$)(A) = $\alpha$($\beta$A)
+$(A^T)^T=A$
 
