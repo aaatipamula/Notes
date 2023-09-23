@@ -23,15 +23,17 @@ Linear equations should only be simplified using invertible processes. This can 
 - Multiply an equation by an a *non-zero* constant.
 - Add or subtract a multiple of an equation to another.
 
-# Notation
+# Augmented Matrix Notation
 
-$$a=
-\begin{vmatrix}
-a & b & c \\
-i & j & k \\
-x & y & z \\
-\end{vmatrix}$$
+**Elementary Operations**
+1. Interchange two rows
+2. Multiply one row by a scalar
+3. Add a multiple of one row to another
+
 > $\forall$  Examples 
+
+**Interchange Two Rows**
+
 
 **Multiply a Row by a Scalar $C$**
 
