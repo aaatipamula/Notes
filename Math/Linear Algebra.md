@@ -4,10 +4,15 @@ As the name suggest this focuses on [Linear Equations](https://en.wikipedia.org/
 
 ## *Systems* of *Linear Equations*
 
+There are **3 operations** that can be performed on Linear Systems:
+1. Interchanging two equations
+2. Multiply one equations by a nonzero number
+3. Add the multiple of one equation to another
+
 **All** linear equations will fall under one of these three types of solutions:
-1. No Solution
-2. One Unique Solution
-3. $\infty$ many solutions
+1. No solution
+2. One unique solution
+3. $\infty$  solutions
 
 > NOTE: This will not occur for *non-linear* equations
 
