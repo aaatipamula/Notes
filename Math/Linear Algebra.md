@@ -59,7 +59,7 @@ $R_{i}\rightarrow C\cdot R_j + R_i$
 2. Use this leading 1 to eliminate all other value in that column
 3. Repeat this process for each remaining row.
 
-**Echelon Form** :
+**Row Echelon Form** :
 #echelon-form
 
 A matrix is in echelon form if:
