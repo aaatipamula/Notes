@@ -34,12 +34,17 @@ Linear equations should only be simplified using invertible processes. This can 
 
 **Interchange Two Rows**
 
+$R_{i}\leftrightarrow R_{j}$
 
 **Multiply a Row by a Scalar $C$**
 
 $R_{i}\rightarrow C\cdot R_i$
 
 e.g. $R_1\rightarrow R_1$
+
+**Add a multiple of a Row to Another**
+
+$R_{i}\rightarrow C\cdot R_j + R_i$
 
 # Definitions:
 
