@@ -80,7 +80,11 @@ Using  row elimination operations, any system can be simplified in *RREF*. Moreo
 
 **Leading Variable**:
 
-A leading variable one that is defined by other variables. If represented in *REF*  this would be a column with a leading 1 (*pivot point*).
+A leading variable is one that is defined by other variables and constants. If represented in *REF*  this would be the variable represented by a column with a leading 1 (*pivot point*).
+
+**Free Variable**:
+
+A free variable one is that is defined by other variables and constants. If represented in *REF*  this would be the variable represented by a column with a leading 1 (*pivot point*).
 
 **Homogeneous Systems**
 
