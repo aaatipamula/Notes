@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Polar and Cylindrical Coordinates.md",
+                "file": "Math/Coordinate Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus III.md",
+                "file": "Math/Coordinate Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus III.md"
+                "file": "Math/Coordinate Systems.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus III.md",
+                "file": "Math/Coordinate Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "f01a65a0c6caf12c",
   "lastOpenFiles": [
-    "Math/Polar and Cylindrical Coordinates.md",
     "Math/Calculus III.md",
+    "Math/Coordinate Systems.md",
     "Math/Curves and Surfaces.md",
     "Attachments/Pasted image 20230924174543.png",
     "Attachments/Pasted image 20230924174531.png",

@@ -6,6 +6,6 @@
 # Topics
 
 ## [[Curves and Surfaces]]
-## [[Polar and Cylindrical Coordinates]]
+## [[Coordinate Systems]]
 ## [[Multivariable Calculus]]
 ## [[Vector Calculus]]
