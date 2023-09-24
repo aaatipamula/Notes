@@ -61,4 +61,20 @@ They generally follow the form:
 
 $$\left(\frac{x}{A}\right)^2+\left(\frac{y}{B}\right)^2=\left(\frac{z}{C}\right)^2+c$$
 
+![[Pasted image 20230924174340.png]]
 
+## Hyperboloid of Two Sheet
+
+They generally follow the form: 
+
+$$\left(\frac{x}{A}\right)^2+\left(\frac{y}{B}\right)^2=\left(\frac{z}{C}\right)^2-c$$
+
+![[Pasted image 20230924174531.png]]
+
+## Cone
+
+They generally follow the form: 
+
+$$\left(\frac{x}{A}\right)^2+\left(\frac{y}{B}\right)^2=\left(\frac{z}{C}\right)^2$$
+
+![[Pasted image 20230924174543.png]]
