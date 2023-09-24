@@ -45,3 +45,20 @@ $$z=\left(\frac{x}{A}\right)^2+\left(\frac{y}{B}\right)^2$$
 
 ![[Pasted image 20230924173827.png]]
 
+Variables can be swapped the variable that is equal to the other two squared summed will be the direction of the concavity (hollow part of the cup).
+
+## Hyperbolic Paraboloid (Saddle)
+
+They generally follow the form: 
+
+$$z=\left(\frac{x}{A}\right)^2-\left(\frac{y}{B}\right)^2$$
+
+![[Pasted image 20230924174202.png]]
+
+## Hyperboloid of One Sheet
+
+They generally follow the form: 
+
+$$\left(\frac{x}{A}\right)^2+\left(\frac{y}{B}\right)^2=\left(\frac{z}{C}\right)^2+c$$
+
+

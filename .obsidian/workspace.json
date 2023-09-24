@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -174,6 +175,8 @@
   },
   "active": "dbb716e74bcc3cae",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230924174340.png",
+    "Attachments/Pasted image 20230924174202.png",
     "Attachments/Pasted image 20230924173827.png",
     "Math/Calculus III.md",
     "Math/Linear Algebra.md",
