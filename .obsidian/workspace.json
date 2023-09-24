@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f01a65a0c6caf12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Polar and Cylindrical Coordinates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "dbb716e74bcc3cae",
             "type": "leaf",
             "state": {
@@ -33,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Curves and Surfaces.md",
+                "file": "Math/Calculus III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Curves and Surfaces.md"
+                "file": "Math/Calculus III.md"
               }
             }
           },
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Curves and Surfaces.md",
+                "file": "Math/Calculus III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,21 +185,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbb716e74bcc3cae",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Polar and Cylindrical Coordinates.md",
+    "Math/Calculus III.md",
+    "Math/Curves and Surfaces.md",
     "Attachments/Pasted image 20230924174543.png",
     "Attachments/Pasted image 20230924174531.png",
     "Attachments/Pasted image 20230924174340.png",
     "Attachments/Pasted image 20230924174202.png",
     "Attachments/Pasted image 20230924173827.png",
-    "Math/Calculus III.md",
     "Math/Linear Algebra.md",
     "Math/Matrices.md",
     "CS/Python Advanced.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
-    "Math/Curves and Surfaces.md",
     "test.canvas",
     "Math/Alternating Series Test.md",
     "Math/Absolute Convergence.md",
