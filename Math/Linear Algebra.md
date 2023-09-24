@@ -65,8 +65,8 @@ $R_{i}\rightarrow C\cdot R_j + R_i$
 #echelon-form
 
 A matrix is in echelon form if:
-- The bottom row consists of only 0
-- The left most non-zero entry of each row is to the right of the leading entry from the row above.
+- All zero rows are at the bottom.
+- The left most non-zero entry (*leading 1* or *pivot point* ), of each row is to the right of the leading 1 from the row above.
 
 **Reduced Row Echelon Form (RREF)**:
 
