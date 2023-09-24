@@ -61,7 +61,7 @@ $R_{i}\rightarrow C\cdot R_j + R_i$
 2. Use this leading 1 to eliminate all other value in that column
 3. Repeat this process for each remaining row.
 
-**Row Echelon Form** :
+**Row Echelon Form (REF)** :
 #echelon-form
 
 A matrix is in echelon form if:
@@ -77,6 +77,10 @@ A matrix is reduced if:
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
 
 > This process is also called *gaussian elimination* #gaussian-elim
+
+**Leading Variable**:
+
+A leading variable one that is defined by other variables. If represented in *REF*  this would be a column with a leading 1 (*pivot point*).
 
 **Homogeneous Systems**
 
