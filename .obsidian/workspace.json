@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Calculus III.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dbb716e74bcc3cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Curves and Surfaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Curves and Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "Math/Curves and Surfaces.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Curves and Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,16 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "dbb716e74bcc3cae",
   "lastOpenFiles": [
-    "Math/Matrices.md",
+    "Attachments/Pasted image 20230924173827.png",
+    "Math/Calculus III.md",
     "Math/Linear Algebra.md",
+    "Math/Matrices.md",
     "CS/Python Advanced.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
     "Math/Curves and Surfaces.md",
-    "Math/Calculus III.md",
     "test.canvas",
     "Math/Alternating Series Test.md",
     "Math/Absolute Convergence.md",
@@ -188,7 +202,6 @@
     "Software Engineering.md",
     "scratchpaper.md",
     "CS",
-    "Untitled.md",
     "Attachments/Photos/Pasted image 20230823113640.png",
     "Attachments/Photos/Pasted image 20230411152411.png",
     "Attachments/Photos/Pasted image 20230123104056.png",
