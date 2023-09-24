@@ -47,3 +47,9 @@ $$\cos(\phi)=\frac{z}{\sqrt{x^2+y^2+z^2}}=\frac{z}{\rho}$$
 $$r=\rho\sin(\theta)$$
 $$\theta=\theta$$
 $$z=\rho\cos(\phi)$$
+
+## Cylindrical to Spherical
+
+$$\rho=\sqrt{r^2+z^2}$$
+$$\theta=\theta$$
+$$\cos(\phi)=\frac{z}{\sqrt{r^2+z^2}}$$
