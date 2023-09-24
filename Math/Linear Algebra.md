@@ -2,6 +2,8 @@
 
 As the name suggest this focuses on [Linear Equations](https://en.wikipedia.org/wiki/Linear_equation) explicitly.
 
+A **Linear Equation** is one that contains variables manipulated by reversable operations. Variables can be manipulated by constants which are multiplied, divided, added, and subtracted.
+
 ## *Systems* of *Linear Equations*
 
 There are **3 operations** that can be performed on Linear Systems:
