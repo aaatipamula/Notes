@@ -35,3 +35,15 @@ This consists of $(\rho, \theta, \phi)$
 $$x=\rho\sin(\phi)\cos(\theta)$$
 $$y=\rho\sin(\phi)\sin(\theta)$$
 $$z=\rho\cos(\phi)$$
+
+## Cartesian to Spherical
+
+$$\rho=\sqrt{x^2+y^2+z^2}$$
+$$\tan(\theta)=\frac{y}{x}$$
+$$\cos(\phi)=\frac{z}{\sqrt{x^2+y^2+z^2}}=\frac{z}{\rho}$$
+
+## Spherical to Cylindrical
+
+$$r=\rho\sin(\theta)$$
+$$\theta=\theta$$
+$$z=\rho\cos(\phi)$$
