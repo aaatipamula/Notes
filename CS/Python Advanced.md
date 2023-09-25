@@ -154,6 +154,9 @@ for val in testClass.class_list_b64():
 
 # Decorators
 ```python
+
+def myfunction(other_function, *args, **kwargs):
+	def inner_function()
 ```
 # Type Annotation
 

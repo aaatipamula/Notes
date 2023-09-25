@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Python Advanced.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Python Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "CS/Python Advanced.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "CS/Python Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +161,7 @@
   },
   "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
     "Math/Calculus III.md",
     "Attachments/Pasted image 20230924173827.png",
     "Math/Coordinate Systems.md",
@@ -169,7 +170,6 @@
     "Attachments/Pasted image 20230924174531.png",
     "Attachments/Pasted image 20230924174340.png",
     "Attachments/Pasted image 20230924174202.png",
-    "Math/Linear Algebra.md",
     "Math/Matrices.md",
     "CS/Python Advanced.md",
     "Math/Vectors.md",
