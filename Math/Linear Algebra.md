@@ -72,7 +72,7 @@ A matrix is in echelon form if:
 
 A matrix is reduced if:
 - It is in *echelon form*. #echelon-form
-- A leading $1$ is the only non-zero value in the row.
+- A leading $1$ is the only non-zero value in the column.
 
 Using  row elimination operations, any system can be simplified in *RREF*. Moreover this reduced form is **unique**.
 

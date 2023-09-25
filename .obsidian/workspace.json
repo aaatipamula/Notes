@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus III.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f01a65a0c6caf12c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Coordinate Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dbb716e74bcc3cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Curves and Surfaces.md",
+                "file": "Math/Linear Algebra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Coordinate Systems.md",
+                "file": "Math/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Coordinate Systems.md"
+                "file": "Math/Linear Algebra.md"
               }
             }
           },
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Coordinate Systems.md",
+                "file": "Math/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,16 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01a65a0c6caf12c",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
     "Math/Calculus III.md",
+    "Attachments/Pasted image 20230924173827.png",
     "Math/Coordinate Systems.md",
     "Math/Curves and Surfaces.md",
     "Attachments/Pasted image 20230924174543.png",
     "Attachments/Pasted image 20230924174531.png",
     "Attachments/Pasted image 20230924174340.png",
     "Attachments/Pasted image 20230924174202.png",
-    "Attachments/Pasted image 20230924173827.png",
     "Math/Linear Algebra.md",
     "Math/Matrices.md",
     "CS/Python Advanced.md",
@@ -219,7 +192,6 @@
     "CS/Git Server Setup.md",
     "CS/WireGuard Setup.md",
     "Software Engineering.md",
-    "scratchpaper.md",
     "CS",
     "Attachments/Photos/Pasted image 20230823113640.png",
     "Attachments/Photos/Pasted image 20230411152411.png",
