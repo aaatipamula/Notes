@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Calculus III.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "6731117babf76b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Curves and Surfaces.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Curves and Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Python Advanced.md"
+                "file": "Math/Curves and Surfaces.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Curves and Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "6731117babf76b12",
   "lastOpenFiles": [
-    "Math/Linear Algebra.md",
     "Math/Calculus III.md",
+    "CS/Python Advanced.md",
+    "Math/Linear Algebra.md",
     "Attachments/Pasted image 20230924173827.png",
     "Math/Coordinate Systems.md",
     "Math/Curves and Surfaces.md",
@@ -171,7 +186,6 @@
     "Attachments/Pasted image 20230924174340.png",
     "Attachments/Pasted image 20230924174202.png",
     "Math/Matrices.md",
-    "CS/Python Advanced.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
