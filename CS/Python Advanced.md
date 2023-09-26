@@ -155,9 +155,20 @@ for val in testClass.class_list_b64():
 # Decorators
 ```python
 
-def myfunction(other_function, *args, **kwargs):
+def mywrapper(other_function, *args, **kwargs):
 	def inner_function()
+		print("Run before function")
+		other_function(*args, **kwargs)
+		print("Run after functionn")
+	return inner_function
+
+@mywrapper
+def printer(value):
+	print(value)
+
+printer("Run  within the function")
 ```
+
 # Type Annotation
 
 # Asyncio
