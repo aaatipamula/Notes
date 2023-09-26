@@ -160,6 +160,8 @@ def myfunction(other_function, *args, **kwargs):
 ```
 # Type Annotation
 
+# Asyncio
+
 # PDB/VS Code Debugger
 
 # List and Dictionary Comprehensions
