@@ -20,11 +20,19 @@ $$
 
 Given a $m\times n$ matrix and a vector of size $n$
 
-$$\begin{vmatrix}
-m_1 & \cdots &  m_n \\ 
-\vdots & \ddots \vdots \\ 
-m_j & \cdots & m_
-\end{vmatrix}$$
+$$ \begin{vmatrix}
+a_{11} & \cdots &  a_{1n} \\ 
+\vdots & \ddots & \vdots \\ 
+a_{m1} & \cdots & a_{mn}
+\end{vmatrix} 
+
+\times 
+
+\begin{vmatrix} b_1  \vdots  b_n \end{vmatrix}
+= 
+
+
+$$
 
 ## Properties
 
