@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Python Advanced.md",
-                "mode": "preview",
+                "file": "Math/Matrices.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "7568d2405cb0b591",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -97,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Python Advanced.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7568d2405cb0b591",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
+    "CS/Python Advanced.md",
     "CS/Propositional Logic.md",
     "CS/Git Server Setup.md",
     "Math/Absolute Convergence.md",
@@ -180,8 +172,6 @@
     "Math/Multivariable Calculus.md",
     "Math/Coordinate Systems.md",
     "Math/Curves and Surfaces.md",
-    "CS/Python Advanced.md",
-    "Math/Linear Algebra.md",
     "Attachments/Pasted image 20230924173827.png",
     "Attachments/Pasted image 20230924174543.png",
     "Attachments/Pasted image 20230924174531.png",

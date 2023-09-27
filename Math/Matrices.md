@@ -16,6 +16,10 @@ j & k & l  \\
 \end{vmatrix}
 $$
 
+## Multiply Matrix by a Vector
+
+Given a $m\times n$ matrix and a vector of size $n$
+
 ## Properties
 
 A + B = B + A #associative-property
