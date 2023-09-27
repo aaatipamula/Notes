@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Absolute Convergence.md",
+                "file": "CS/Python Advanced.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "7568d2405cb0b591",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Absolute Convergence.md",
+                "file": "CS/Python Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Absolute Convergence.md"
+                "file": "CS/Python Advanced.md"
               }
             }
           },
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Absolute Convergence.md",
+                "file": "CS/Python Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "7568d2405cb0b591",
   "lastOpenFiles": [
+    "CS/Propositional Logic.md",
+    "CS/Git Server Setup.md",
+    "Math/Absolute Convergence.md",
     "Math/Calculus II.md",
     "Math/Calculus III.md",
     "Math/Vector Calculus.md",
@@ -175,11 +189,9 @@
     "Attachments/Pasted image 20230924174202.png",
     "Math/Matrices.md",
     "Math/Vectors.md",
-    "CS/Propositional Logic.md",
     "CS/Discrete Structures.md",
     "test.canvas",
     "Math/Alternating Series Test.md",
-    "Math/Absolute Convergence.md",
     "Math/L'Hopitals Rule.md",
     "Math/Limits.md",
     "Math/Direct Substitution.md",
@@ -190,7 +202,6 @@
     "Math/Sequences.md",
     "Math/Series.md",
     "Math/Volume of Shapes.md",
-    "CS/Git Server Setup.md",
     "CS/WireGuard Setup.md",
     "CS",
     "Attachments/Photos/Pasted image 20230823113640.png",
