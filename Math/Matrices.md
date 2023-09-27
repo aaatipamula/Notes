@@ -3,22 +3,28 @@
 Assume *A* , *B* , and *C* are matrices and $\alpha$ and $\beta$ are constants.
 
 $$
-A=\begin{vmatrix}\\
+A=\begin{vmatrix}
 a & b & c \\
 d & e & f  \\
 \end{vmatrix}
 $$
 
 $$
-A=\begin{vmatrix}\\
+A=\begin{vmatrix}
 g & h & i \\
 j & k & l  \\
 \end{vmatrix}
 $$
 
-## Multiply Matrix by a Vector
+## Matrix Times Vector
 
 Given a $m\times n$ matrix and a vector of size $n$
+
+$$\begin{vmatrix}
+m_1 & \cdots &  m_n \\ 
+\vdots & \ddots \vdots \\ 
+m_j & \cdots & m_
+\end{vmatrix}$$
 
 ## Properties
 
