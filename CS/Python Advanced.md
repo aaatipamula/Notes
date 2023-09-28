@@ -88,8 +88,7 @@ This allows for a function to modify the state of a global variable, or just cre
 
 ```python
 # global variable
-x = 10
-statement = ""
+statement = "empty"
 
 # creates a local variable "statement"
 myFunc(val):
@@ -106,21 +105,23 @@ myFuncGlobal(val):
 	else:
 		statement = "Bye"
 
-myFunc(x)
+myFunc(10)
 print(statement)
 
-myFuncGlobal(x)
+myFuncGlobal(10)
 print(statement)
 ```
 
-
 # Enumerate
+
+Enumerate is a builtin function that takes any iterable and returns another iterable of tuples. Each tuple contains an index and 
 
 ```python
 mylist = [1, 2, 3, 4, 5, 6, 7, 8]
 
+# Print a value in an iterable with indexing starting at 1
 myfunc(iterable, print_index)
-	for index in range(len(iterable)):
+	for index in range(1, len(iterable) + 1):
 		if index == print_index:
 			print(f"Reached index {index} with value: {mylist[index]}")
 
@@ -128,6 +129,8 @@ myfunc(iterable, print_index)
 	for index, value in enumerate(iterable):
 		if index == print_index:
 			print(f"Reached index {index} with value: {value}")
+
+myfunc(mylist, 3)
 ```
 
 # Generators
