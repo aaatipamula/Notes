@@ -1,5 +1,9 @@
 # Unpacking
 
+Unpacking is a feature that exists in multiple high-level languages but is particularly useful in python when dealing with function parameters.
+
+**e.g.**
+
 ```python
 mylist = [11, 45]
 mytuple = ("thing1", 2, 3)
@@ -57,12 +61,13 @@ myfunction(1, 2, 4, 10, val1="thing1", val2="thing2", val3="thing3")
 
 # Conditional Variable Assignment
 
-> While this may seem somewhat useless it sort of comes in handy for quick conversions using conditions
+While this may seem somewhat useless it sort of comes in handy for easy one liners It may also come in handy when dealing with [[#Type Annotation]]
+
+**e.g.**
 
 ```python
 mycondition = True
 
-# e.g. 
 myvar = None
 if mycondition: 
 	myvar = "yes"
