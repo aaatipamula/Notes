@@ -129,7 +129,7 @@ myFuncIterate(iterable, print_index)
 		count += 1
 
 # Print a value in an iterable with indexing starting at 1
-# A ca
+# A classier implementation
 myFuncEnumerate(iterable, print_index)
 	for index, value in enumerate(iterable, 1):
 		if index == print_index:
