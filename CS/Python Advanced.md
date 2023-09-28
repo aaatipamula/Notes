@@ -61,7 +61,7 @@ myfunction(1, 2, 4, 10, val1="thing1", val2="thing2", val3="thing3")
 
 # Conditional Variable Assignment
 
-While this may seem somewhat useless it sort of comes in handy for easy one liners It may also come in handy when dealing with [[#Type Annotation]]
+While this may seem somewhat useless it sort of comes in handy for easy one liners It may also come in handy when dealing with [[#Type Annotation]].
 
 **e.g.**
 
@@ -82,16 +82,23 @@ print(myvar)
 
 # Global Variable Scope
 
+This allows for a function to modify the state of a global variable, or just create a global scope variable.
+
+> Yes you can just return the value of statement and print that, but you may occasionally want to modify or instantiate a variable that determines how an entire program runs.
+
 ```python
+# global variable
 x = 10
 statement = ""
 
+# creates a local variable "statement"
 myFunc(val):
 	if val > 5:
 		statement = "Hello"
 	else:
 		statement = "Bye"
 
+# modifies the global variable "statement"
 myFuncGlobal(val):
 	global statement
 	if val > 5:
@@ -106,7 +113,6 @@ myFuncGlobal(x)
 print(statement)
 ```
 
-> Yes you can just return the value of statement and print that, but sometimes you want to make a change to a variable that determines how the ENTIRE program runs.
 
 # Enumerate
 
