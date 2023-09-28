@@ -120,13 +120,18 @@ Enumerate is a builtin function that takes any iterable and returns another iter
 mylist = [1, 2, 3, 4, 5, 6, 7, 8]
 
 # Print a value in an iterable with indexing starting at 1
-myfunc(iterable, print_index)
-	for index in range(1, len(iterable) + 1):
-		if index == print_index:
-			print(f"Reached index {index} with value: {mylist[index]}")
+# A classic implementation
+myFuncIterate(iterable, print_index)
+	count = 1
+	for index in range(len(iterable)):
+		if index + 1 == print_index:
+			print(f"Reached index {count} with value: {mylist[index]}")
+		count += 1
 
-myfunc(iterable, print_index)
-	for index, value in enumerate(iterable):
+# Print a value in an iterable with indexing starting at 1
+# A ca
+myFuncEnumerate(iterable, print_index)
+	for index, value in enumerate(iterable, 1):
 		if index == print_index:
 			print(f"Reached index {index} with value: {value}")
 
