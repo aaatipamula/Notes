@@ -44,20 +44,19 @@ Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respective
 The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (Row i of matrix A dotted with column j of matrix B).
 
 ## Properties
+> $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
+- A + B = B + A
 #associative-property
-A + B = B + A
+- (A + B) + C = A + (B + C) 
 #communitaive-property
-(A + B) + C = A + (B + C) 
+- $\alpha$(A + B) = $\alpha$A + $\alpha$B 
 #distributive-property
-$\alpha$(A + B) = $\alpha$A + $\alpha$B 
+- $\alpha + \beta$(A + B) = $\alpha$A + $\beta$B 
 #distributive-property 
-$\alpha + \beta$(A + B) = $\alpha$A + $\beta$B 
-($\alpha\beta$)(A) = $\alpha$($\beta$A)
-$(A^T)^T=A$
-$(AB)^T=B^TA^T$
-
+- ($\alpha\beta$)(A) = $\alpha$($\beta$A)
+- $(A^T)^T=A$
+- $(AB)^T=B^TA^T$
 - $I$ is the identity matrix and has the same properties as the constant 1
 - $IA=AI$ for all matricies
 - $B=A^{-1}=\frac{1}{A}$ which should be $AB=BA=I$
-- $B=A^{-1}$ exists exactly when 
-
+- $B=A^{-1}$ exists exactly when
