@@ -56,3 +56,8 @@ $\alpha + \beta$(A + B) = $\alpha$A + $\beta$B
 $(A^T)^T=A$
 $(AB)^T=B^TA^T$
 
+- $I$ is the identity matrix and has the same properties as the constant 1
+- $IA=AI$ for all matricies
+- $B=A^{-1}=\frac{1}{A}$ which should be $AB=BA=I$
+- $B=A^{-1}$ exists exactly when 
+
