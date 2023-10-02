@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Linear Algebra.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35daca987fcd60b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Python Advanced.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Python Advanced.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "35daca987fcd60b2",
   "lastOpenFiles": [
-    "Math/Matrices.md",
     "Math/Linear Algebra.md",
-    "Math/Vectors.md",
     "CS/Python Advanced.md",
+    "Math/Matrices.md",
+    "Math/Vectors.md",
     "CS/Propositional Logic.md",
     "CS/Git Server Setup.md",
     "Math/Absolute Convergence.md",

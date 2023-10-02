@@ -35,6 +35,12 @@ a_{m1} & \cdots & a_{mn}
 b_1 \begin{bmatrix}a_{11} \\ \vdots \\ a_{m1} \end{bmatrix} + \cdots  + b_n \begin{bmatrix}a_{1n} \\ \vdots \\ a_{mn} \end{bmatrix}
 $$
 
+## Matrix Times Matrix
+
+**Dot Product Rule**
+
+
+
 ## Properties
 
 A + B = B + A #associative-property
