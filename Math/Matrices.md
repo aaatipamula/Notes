@@ -39,14 +39,19 @@ $$
 
 **Dot Product Rule**
 
+Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respectively (Where the number of rows in A is equal to the number of columns in B).
 
 
 ## Properties
-
-A + B = B + A #associative-property
-(A + B) + C = A + (B + C) #communitaive-property
-$\alpha$(A + B) = $\alpha$A + $\alpha$B #distributive-property
-$\alpha + \beta$(A + B) = $\alpha$A + $\beta$B #distributive-property 
+#associative-property
+A + B = B + A
+#communitaive-property
+(A + B) + C = A + (B + C) 
+#distributive-property
+$\alpha$(A + B) = $\alpha$A + $\alpha$B 
+#distributive-property 
+$\alpha + \beta$(A + B) = $\alpha$A + $\beta$B 
 ($\alpha\beta$)(A) = $\alpha$($\beta$A)
 $(A^T)^T=A$
+$(AB)^T=B^TA^T$
 
