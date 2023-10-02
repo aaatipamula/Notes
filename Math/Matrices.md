@@ -41,6 +41,7 @@ $$
 
 Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respectively (Where the number of rows in A is equal to the number of columns in B).
 
+The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (Row i of matrix A dotted with column j of matrix B).
 
 ## Properties
 #associative-property
