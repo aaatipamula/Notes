@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "CS/Advanced Python.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "CS/Advanced Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Matrices.md"
+                "file": "CS/Advanced Python.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "CS/Advanced Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,9 +175,9 @@
   },
   "active": "35daca987fcd60b2",
   "lastOpenFiles": [
-    "Math/Linear Algebra.md",
-    "CS/Python Advanced.md",
     "Math/Matrices.md",
+    "Math/Linear Algebra.md",
+    "CS/Advanced Python.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
     "CS/Git Server Setup.md",
