@@ -6,5 +6,13 @@
 
 # Lambda Functions
 
-These are also known as *anonymous* functions. They are similar, in essence, to regularly defined functions. The only real d
+Also known as *anonymous* functions. They are similar, in essence, to regularly defined functions. The only real difference being they are slightly more lightweight and intended to be used for simple operations.
 
+- - -
+# Lambda Examples
+
+Simple uses
+```python
+addOne = lambda x: x + 1
+print(addOne(3))
+```
