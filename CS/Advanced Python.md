@@ -15,4 +15,17 @@ Simple uses
 ```python
 addOne = lambda x: x + 1
 print(addOne(3))
+
+class Person:
+    def __init__(self, name):
+        self.name = name
+        self.id = hash(name)
+
+myList = [Person("JJ"), Person("Purdy"), Person("Kelce"), Person("Achane")]
+
+myList.sort(key=lambda person: person.id)
+
+print(myList)
 ```
+
+
