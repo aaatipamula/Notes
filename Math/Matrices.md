@@ -60,4 +60,5 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 	- $I$ is the identity matrix and has the same properties as the constant 1
 	- $IA=AI$ for all matrices
 	- $B=A^{-1}$ exists exactly when $B=A^{-1}=\frac{1}{A}$ which should be $AB=BA=I$
+	- $C=(AB)^{-1}=A^{-1}B^{-1}=I$
 	- 
