@@ -43,6 +43,10 @@ Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respective
 
 The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (Row i of matrix A dotted with column j of matrix B).
 
+## Elementary Matrix
+
+A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
+
 ## Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
 - A + B = B + A
