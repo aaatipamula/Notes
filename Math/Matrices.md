@@ -47,6 +47,12 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 
 A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
 
+**Importance**:
+
+Suppose A -> B takes one operation. If E = I correlated to this same row operation, then $B=EA$
+
+*i.e. performing row operations are just performing matrix multiplications by an elementary matrix in disguise.*
+
 ## Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
 - A + B = B + A
