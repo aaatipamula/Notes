@@ -56,7 +56,8 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 - ($\alpha\beta$)(A) = $\alpha$($\beta$A)
 - $(A^T)^T=A$
 - $(AB)^T=B^TA^T$
-- $I$ is the identity matrix and has the same properties as the constant 1
-- $IA=AI$ for all matricies
-- $B=A^{-1}=\frac{1}{A}$ which should be $AB=BA=I$
-- $B=A^{-1}$ exists exactly when
+- *Inverted Matrices*
+	- $I$ is the identity matrix and has the same properties as the constant 1
+	- $IA=AI$ for all matrices
+	- $B=A^{-1}$ exists exactly when $B=A^{-1}=\frac{1}{A}$ which should be $AB=BA=I$
+	- 
