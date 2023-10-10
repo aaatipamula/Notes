@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Matrices.md",
-                "mode": "source",
+                "file": "Math/Coordinate Systems.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "Math/Coordinate Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Matrices.md"
+                "file": "Math/Coordinate Systems.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "Math/Coordinate Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,8 @@
   },
   "active": "53a278f9be138e31",
   "lastOpenFiles": [
-    "Math/Linear Algebra.md",
     "Math/Matrices.md",
+    "Math/Linear Algebra.md",
     "CS/Advanced Python.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
