@@ -45,9 +45,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f6714b4f6ce7f4a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/Matrices.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca72c365c4abe9e",
+  "active": "f6714b4f6ce7f4a8",
   "lastOpenFiles": [
+    "Math/Matrices.md",
     "Math/Linear Algebra.md",
     "Math/Coordinate Systems.md",
-    "Math/Matrices.md",
     "CS/Advanced Python.md",
     "Math/Vectors.md",
     "CS/Propositional Logic.md",
