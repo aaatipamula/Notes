@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Integrals.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Integrals.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6714b4f6ce7f4a8",
+  "active": "6ca72c365c4abe9e",
   "lastOpenFiles": [
+    "Math/Integrals.md",
     "Math/Matrices.md",
     "Math/Linear Algebra.md",
     "Math/Coordinate Systems.md",
@@ -225,7 +226,6 @@
     "Math/L'Hopitals Rule.md",
     "Math/Limits.md",
     "Math/Direct Substitution.md",
-    "Math/Integrals.md",
     "Math/Ratio Test.md",
     "Math/Planes.md",
     "Math/Root Test.md",
