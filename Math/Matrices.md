@@ -47,9 +47,40 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
 - Inverse of an elementary matrix is just the *inverse operation* that was used to obtain the elementary matrix.
-- Can compute products of elementary 
+
+e.g. 
+
+
+- Can compute products/powers of elementary matrices by repeating the row operation *n* times.
+
+e.g. 
+
+$$
+\begin{vmatrix}
+1 & 0 \\
+0 & 2
+\end{vmatrix}^{10 }= 
+\begin{vmatrix}
+1 & 0 \\
+0 & 2^{10}
+\end{vmatrix}
+$$
+
+or 
+
+$$
+\begin{vmatrix}
+1 & 0 \\
+2 & 1
+\end{vmatrix}^{10 }= 
+\begin{vmatrix}
+1 & 0 \\
+20 & 1
+\end{vmatrix}
+$$
 
 **Importance**:
+
 
 Suppose A -> B takes one operation. If E = I correlated to this same row operation, then $B=EA$
 
