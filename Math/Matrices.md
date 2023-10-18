@@ -50,7 +50,7 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 
 e.g. 
 
-
+If $E = R_1\leftarrow$
 - Can compute products/powers of elementary matrices by repeating the row operation *n* times.
 
 e.g. 

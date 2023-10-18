@@ -78,6 +78,8 @@ Using  row elimination operations, any system can be simplified in *RREF*. Moreo
 
 > This process is also called *gaussian elimination* #gaussian-elim
 
+*Theorem*: If A is Invertible then REEF of A is I
+
 **Leading Variable**:
 
 A leading variable is one that is defined by other variables and constants. If represented in *REF*  this would be the variable represented by a column with a leading 1 (*pivot point*).
