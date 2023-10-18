@@ -78,7 +78,7 @@ Using  row elimination operations, any system can be simplified in *RREF*. Moreo
 
 > This process is also called *gaussian elimination* #gaussian-elim
 
-*Theorem*: If A is Invertible then REEF of A is I
+*Theorem*: If A is Invertible then RREF of A is I
 
 **Leading Variable**:
 
