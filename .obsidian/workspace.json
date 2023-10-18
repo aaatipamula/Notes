@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6ab2641af4def541",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c548244b2aaf30a",
+  "active": "6ab2641af4def541",
   "lastOpenFiles": [
     "Math/Matrices.md",
     "Math/Integrals.md",
