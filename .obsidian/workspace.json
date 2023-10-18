@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "6ab2641af4def541",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab2641af4def541",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Linear Algebra.md",
     "Math/Matrices.md",
     "Math/Integrals.md",
-    "Math/Linear Algebra.md",
     "Math/Coordinate Systems.md",
     "CS/Advanced Python.md",
     "Math/Vectors.md",

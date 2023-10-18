@@ -43,9 +43,11 @@ Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respective
 
 The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (Row i of matrix A dotted with column j of matrix B).
 
-## Elementary Matrix
+## Elementary Matricies
 
-A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
+- A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
+- Inverse of an elementary matrix is just the *inverse operation* that was used to obtain the elementary matrix.
+- Can compute products of elementary 
 
 **Importance**:
 
