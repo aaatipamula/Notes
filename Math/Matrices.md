@@ -45,8 +45,19 @@ The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (
 
 ## Determinants of a Matrix
 
-**Definition**: If A is a 1x1 matrix, then A = [a] 
+**Definition 1**: If A is a 1x1 matrix, then $A = [a]$ , then $\det(A)=a$ 
 
+**Definition 2**: If A is a 2x2 matrix, then $A = \begin{bmatrix}a & b \\ c & d\end{bmatrix}$ , then $\det(A)=ad-bc$ 
+
+**Definition 3***: If A is an $n \times m$ matrix , then 
+$$A = \begin{bmatrix}
+a_{11} & \cdots &  a_{1n} \\ 
+\vdots & \ddots & \vdots \\ 
+a_{m1} & \cdots & a_{mn}
+\end{bmatrix} 
+\quad
+\det(A)=
+$$
 ## Elementary Matricies
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
