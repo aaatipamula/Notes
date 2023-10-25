@@ -10,7 +10,7 @@
   "addCasesBlock_toggle": true,
   "shiftEnter_toggle": false,
   "addMatrixBlock_toggle": true,
-  "addMatrixBlock_parameter": "vmatrix",
+  "addMatrixBlock_parameter": "bmatrix",
   "autoFraction_toggle": true,
   "autoLargeBracket_toggle": true,
   "autoSumLimit_toggle": true,
