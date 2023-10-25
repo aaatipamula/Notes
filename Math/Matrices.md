@@ -43,6 +43,10 @@ Given two matrices $A$ and $B$ of $m\times n$  and $n \times p$ sizes respective
 
 The $(i, j)$th entry of the resulting matrix is row $A_i$ $\cdot$ column $B_j$ (Row i of matrix A dotted with column j of matrix B).
 
+## Determinants of a Matrix
+
+**Definition**: If A is a 1x1 matrix, then A = [a] 
+
 ## Elementary Matricies
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
@@ -107,8 +111,9 @@ Suppose A -> B takes one operation. If E = I correlated to this same row operati
 
 ## Theorems
 
-*If A is a square matrix, then the following statements are equivalent*
-1. A is *Invertable*
+**If A is a square matrix, then the following statements are equivalent**
+1. A is *invertable*
 2. The only solution to $Ax=0$ is $x=0$
 3. RREF of $A$ is $I$
-4. A is the *product of elementary matrices*
+4. A is a *product of elementary matrices*
+5. The *determinant* of $A\ne0$
