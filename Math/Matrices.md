@@ -58,7 +58,10 @@ a_{m1} & \cdots & a_{mn}
 \quad
 \det(A)=
 $$
-## Elementary Matricies
+
+*Determinants are recursive, you split a larger matrix into smaller ones to find the determinant for each and combine them accordingly.*
+
+## Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
 - Inverse of an elementary matrix is just the *inverse operation* that was used to obtain the elementary matrix.
