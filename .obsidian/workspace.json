@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "Math/Derivatives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "Math/Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Matrices.md"
+                "file": "Math/Derivatives.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Matrices.md",
+                "file": "Math/Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +160,9 @@
   },
   "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
-    "Math/Coordinate Systems.md",
+    "Attachments/Pasted image 20231030124759.png",
     "Math/Matrices.md",
+    "Math/Coordinate Systems.md",
     "Math/Linear Algebra.md",
     "Math/Integrals.md",
     "CS/Advanced Python.md",
@@ -192,7 +192,6 @@
     "Math/Sequences.md",
     "Math/Series.md",
     "Math/Volume of Shapes.md",
-    "CS/WireGuard Setup.md",
     "CS",
     "Attachments/Photos/Pasted image 20230823113640.png",
     "Attachments/Photos/Pasted image 20230411152411.png",
