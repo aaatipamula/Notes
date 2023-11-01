@@ -84,7 +84,7 @@ This provides a few things consequentially:
 - - -
 Suppose that A is $n\times n$ and also that A is *invertible*:
 1. $\det(A)\ne=0$
-2. $\det$
+2. $\det(A^{-1})=\det(A)^{-1}=\frac{1}{\det(A)}$
 
 ## Elementary Matrices
 
@@ -151,7 +151,7 @@ Suppose A -> B takes one operation. If E = I correlated to this same row operati
 ## Theorems
 
 **If A is a square matrix, then the following statements are equivalent**
-1. A is *invertable*
+1. A is *invertible*
 2. The only solution to $Ax=0$ is $x=0$
 3. RREF of $A$ is $I$
 4. A is a *product of elementary matrices*
