@@ -69,17 +69,22 @@ $$
 
 *You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
 
-If A is a $n\times n$ matrix 
+If A is a $n\times n$ matrix:
 1. $\det(A^T)=\det(A)$
 2. $\det(kA)=k^n\det(A)$
 - - - 
-If A, B are both $n\times n$
+If A, B are both $n\times n$:
 > Prof. Hernandez calls it the "beautiful theorem"
 - $\det(AB)=\det(A)\det(B)$
 
 This provides a few things consequentially:
 1. $\det(AB)=\det(A)\det(B)=\det(B)\det(A)=\det(BA)$
-1. $\det(ABC)=(\det(A)\det(B))\det(C)=\det(B)\det(A)=\det(BA)$
+2. $\det(A_1 ... A_n)=\det(A_1) ... \det(A_n)$
+3. If $A_1 ... A_n$ the previous formula becomes $\det(A^n)=\det(A)^n$
+- - -
+Suppose that A is $n\times n$ and also that A is *invertible*:
+1. $\det(A)\ne=0$
+2. $\det$
 
 ## Elementary Matrices
 
