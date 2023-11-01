@@ -68,6 +68,8 @@ $$
 **Theorem**: If A is a $n\times n$ matrix 
 1. $\det(A^T)=\det(A)$
 2. $\det(kA)=k^n\det(A)$
+
+*You cannot distribute determinants to in*
 ## Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
