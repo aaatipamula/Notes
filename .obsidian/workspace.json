@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Coordinate Systems.md",
-                "mode": "preview",
+                "file": "Math/Matrices.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Coordinate Systems.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Coordinate Systems.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Coordinate Systems.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,10 +161,10 @@
   },
   "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Coordinate Systems.md",
     "Math/Derivatives.md",
     "Attachments/Pasted image 20231030124759.png",
     "Math/Matrices.md",
-    "Math/Coordinate Systems.md",
     "Math/Linear Algebra.md",
     "Math/Integrals.md",
     "CS/Advanced Python.md",
