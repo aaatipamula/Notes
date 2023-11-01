@@ -65,11 +65,17 @@ $$
 - It is better to simplify (using row ops) before computing $\det(A)$
 > This is because the determinant of A does not change when row ops are applied
 
-**Theorem**: If A is a $n\times n$ matrix 
+### Theorems
+
+*You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
+
+If A is a $n\times n$ matrix 
 1. $\det(A^T)=\det(A)$
 2. $\det(kA)=k^n\det(A)$
 
-*You cannot distribute determinants to in*
+If A, B are both $n\times n$
+- $\det(AB)=\det(A)\det(B)$
+
 ## Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
