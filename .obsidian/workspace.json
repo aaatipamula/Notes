@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Derivatives.md",
-                "mode": "source",
+                "file": "Math/Coordinate Systems.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Derivatives.md",
+                "file": "Math/Coordinate Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Derivatives.md"
+                "file": "Math/Coordinate Systems.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Derivatives.md",
+                "file": "Math/Coordinate Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   },
   "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
+    "Math/Derivatives.md",
     "Attachments/Pasted image 20231030124759.png",
     "Math/Matrices.md",
     "Math/Coordinate Systems.md",
