@@ -156,3 +156,4 @@ Suppose A -> B takes one operation. If E = I correlated to this same row operati
 3. RREF of $A$ is $I$
 4. A is a *product of elementary matrices*
 5. The *determinant* of $A\ne0$
+>$1 -> 2 -> 3 -> 4 -> 5 \to 1
