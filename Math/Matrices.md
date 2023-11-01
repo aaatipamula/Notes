@@ -62,8 +62,12 @@ $$
 *Determinants are recursive, you split a larger matrix into smaller ones to find the determinant for each and combine them accordingly.*
 
 - To compute $\det(A)$, we can expand across any row/column
-- It is better to simplify (using row ops) before computing $\det$
+- It is better to simplify (using row ops) before computing $\det(A)$
+> This is because the determinant of A does not change when row ops are applied
 
+**Theorem**: If A is a $n\times n$ matrix 
+1. $\det(A^T)=\det(A)$
+2. $\det(kA)=k^n\det(A)$
 ## Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
