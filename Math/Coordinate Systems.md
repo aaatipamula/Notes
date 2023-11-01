@@ -30,25 +30,25 @@ $$z=z$$
 
 This consists of $(\rho, \theta, \phi)$
 
-## Spherical to Cartesian
+## Cartesian to Spherical
 
 $$x=\rho\sin(\phi)\cos(\theta)$$
 $$y=\rho\sin(\phi)\sin(\theta)$$
 $$z=\rho\cos(\phi)$$
 
-## Cartesian to Spherical
+## Spherical to Cartesian
 
 $$\rho=\sqrt{x^2+y^2+z^2}$$
 $$\tan(\theta)=\frac{y}{x}$$
 $$\cos(\phi)=\frac{z}{\sqrt{x^2+y^2+z^2}}=\frac{z}{\rho}$$
 
-## Spherical to Cylindrical
+## Cylindrical to Spherical
 
 $$r=\rho\sin(\theta)$$
 $$\theta=\theta$$
 $$z=\rho\cos(\phi)$$
 
-## Cylindrical to Spherical
+## Spherical to Cylindrical
 
 $$\rho=\sqrt{r^2+z^2}$$
 $$\theta=\theta$$
