@@ -65,6 +65,9 @@ $$
 - It is better to simplify (using row ops) before computing $\det(A)$
 > This is because the determinant of A does not change when row ops are applied
 
+**There are 2 easy ways to tell if a the determinant of a matrix is 0**:
+1. An entire *row* or *column* is = 0
+2. 2 *rows* or *columns* are equal
 # Invertible Matrices
 
 > If A is a *square* matrix, a matrix B is the **inverse** of A if and only if
