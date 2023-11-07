@@ -68,8 +68,11 @@ $$
 # Invertible Matrices
 
 > If A is a *square* matrix, a matrix B is the **inverse** of A if and only if
+> $$AB=I\quad\land\quad BA=I$$
 
-$$AB=I\quad\land\quad BA=I$$
+i.e. if matrix A and B multiply communitatively and the result is the *identity matrix*  A is the *inverse* of B and vice-versa.
+
+
 # Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
