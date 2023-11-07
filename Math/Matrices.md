@@ -75,16 +75,15 @@ $$
 
 i.e. if matrix A and B multiply communitatively and the result is the *identity matrix*  A is the *inverse* of B and vice-versa.
 
-
 # Elementary Matrices
 
 - A matrix $A$ is *elementary* if the can be obtained from I using a *single* row operation. 
+e. g.
+
+If $E = R_1\rightarrow 3R_1+R_2=\begin{bmatrix}1 & 0 & 0 \\ 3 & 1 & 0 \\ 0 & 0 & 1\end{bmatrix}$
+
 - Inverse of an elementary matrix is just the *inverse operation* that was used to obtain the elementary matrix.
-
-e.g. 
-
-If $E = R_1\leftarrow$
-- Can compute products/powers of elementary m*atrices by repeating the row operation *n* times.
+- Can compute products/powers of elementary *matrices by repeating the row operation n times.*
 
 e.g. 
 
@@ -108,7 +107,7 @@ $$
 \end{vmatrix}^{10 }= 
 \begin{vmatrix}
 1 & 0 \\
-20 & 1
+2*10 & 1
 \end{vmatrix}
 $$
 
