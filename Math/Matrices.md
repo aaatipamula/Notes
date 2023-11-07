@@ -117,6 +117,12 @@ Suppose A -> B takes one operation. If E = I correlated to this same row operati
 
 *i.e. performing row operations are just performing matrix multiplications by an elementary matrix in disguise.*
 
+This can be expanded express $B\rightarrow A$ in terms of elementary matrices. 
+
+e.g.  Assuming we get B from A and $E_1$
+
+$$B=E_n ... E_2* E_1 * A\quad\rightarrow\quad$$
+
 # Theorems
 
 *You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
