@@ -119,9 +119,15 @@ Suppose A -> B takes one operation. If E = I correlated to this same row operati
 
 This can be expanded express $B\rightarrow A$ in terms of elementary matrices. 
 
-e.g.  Assuming we get B from A and $E_1$
+e.g.  Assuming we get B from A and $E_1$ is the first "row operation"
 
-$$B=E_n ... E_2* E_1 * A\quad\rightarrow\quad$$
+$$B=E_n ... E_2* E_1 * A \rightarrow A = (E_n ... E_2* E_1)^{-1}B$$
+
+*We can also factor out invertible matrices in terms of elementary matricies.*
+
+e.g. Assuming A is an *invertible* matrix and $E_1$ is the first "row operation"
+
+$$E_n ... E_2 * E_1*$$
 
 # Theorems
 
