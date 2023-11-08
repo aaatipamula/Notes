@@ -136,6 +136,7 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 If A is a $n\times n$ matrix:
 1. $\det(A^T)=\det(A)$
 2. $\det(kA)=k^n\det(A)$
+
 - - - 
 If A, B are both $n\times n$:
 > Prof. Hernandez calls it the "beautiful theorem"
@@ -145,10 +146,12 @@ This provides a few things consequentially:
 1. $\det(AB)=\det(A)\det(B)=\det(B)\det(A)=\det(BA)$
 2. $\det(A_1 ... A_n)=\det(A_1) ... \det(A_n)$
 3. If $A_1 ... A_n$ the previous formula becomes $\det(A^n)=\det(A)^n$
+
 - - -
 Suppose that A is $n\times n$ and also that A is *invertible*:
 1. $\det(A)\ne0$
 2. $\det(A^{-1})=\det(A)^{-1}=\frac{1}{\det(A)}$
+
 - - -
 **If A is a square matrix, then the following statements are equivalent**
 1. A is *invertible*
@@ -157,6 +160,12 @@ Suppose that A is $n\times n$ and also that A is *invertible*:
 4. A is a *product of elementary matrices*
 5. The *determinant* of $A\ne0$
 > $1\to2\to3 \to4\to5 \to1$
+
+- - -
+If A is a square matrix and is invertible:
+1. If a multiple of a row is added to another row $\det(A)=\det(A_1)$
+2. If a row is multiplied by a scalar $k$ then $\det(A)=k\det(A_1)$
+3. If a row is swapped with another then $det$
 
 # Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
