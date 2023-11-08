@@ -147,7 +147,7 @@ This provides a few things consequentially:
 3. If $A_1 ... A_n$ the previous formula becomes $\det(A^n)=\det(A)^n$
 - - -
 Suppose that A is $n\times n$ and also that A is *invertible*:
-1. $\det(A)\ne=0$
+1. $\det(A)\ne0$
 2. $\det(A^{-1})=\det(A)^{-1}=\frac{1}{\det(A)}$
 - - -
 **If A is a square matrix, then the following statements are equivalent**
