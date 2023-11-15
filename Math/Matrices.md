@@ -130,6 +130,11 @@ e.g. Assuming A is an *invertible* matrix and $E_1$ is the first "row operation"
 
 $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A$$
 
+# Eigenvalues
+
+1. Seek a scaling factor $\lambda$ such that $Ax=\lambda x=(\lambda I)x$
+2. 
+
 # Theorems
 
 *You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
