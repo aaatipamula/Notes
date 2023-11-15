@@ -68,6 +68,7 @@ $$
 **There are 2 easy ways to tell if a the determinant of a matrix is 0**:
 1. An entire *row* or *column* is = 0
 2. 2 *rows* or *columns* are equal
+
 # Invertible Matrices
 
 > If A is a *square* matrix, a matrix B is the **inverse** of A if and only if
@@ -151,6 +152,7 @@ This provides a few things consequentially:
 Suppose that A is $n\times n$ and also that A is *invertible*:
 1. $\det(A)\ne0$
 2. $\det(A^{-1})=\det(A)^{-1}=\frac{1}{\det(A)}$
+2. $\det(A^{T})=\det(A)$
 
 - - -
 **If A is a square matrix, then the following statements are equivalent**
