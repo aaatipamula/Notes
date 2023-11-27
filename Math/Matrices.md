@@ -135,6 +135,8 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 1. Seek a scaling factor $\lambda$ such that $Ax=\lambda x=(\lambda I)x$
 2. 
 
+Eigenvalues are paired with *eigenvectors*
+
 # Theorems
 
 *You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
@@ -179,8 +181,10 @@ A square matrix $A$ is *diagonalizable* if we can factor $A$ as $A=PDP^{-1}$ whe
 Ideas:
 1. Diagonal matrices are easy to deal with (compute det, eigenvalue, eigenvector, etc.)
 2. If A is diagonalizable then A inherits those properties from D
+
 - - - 
-A square matrix $A$ is diagonalizable if and only if we can build an invertiable matrix 
+A square matrix $A$ is diagonalizable if and only if we can build an invertible matrix P where columns are eigenvectors. In this case if $P=[x_1, x_2, ... x_n]$
+
 
 # Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
