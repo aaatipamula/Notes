@@ -174,11 +174,11 @@ If A is a square matrix and is invertible:
 2. If a row is multiplied by a scalar $k$ then $\det(A)=k\det(A_1)$
 3. If a row is swapped with another then $\det(A)=-1\det(A_1)$
 - - -
-A square matrix $A$ is *diagonlizable* if we can factor $A$ as $A=PDP^{-1}$ where P=invertible and D=diagonal
+A square matrix $A$ is *diagonalizable* if we can factor $A$ as $A=PDP^{-1}$ where P=invertible and D=diagonal
 
 Ideas:
 1. Diagonal matrices are easy to deal with (compute det, eigenvalue, eigenvector, etc.)
-2. If 
+2. If A is diagonalizable then A inherits those properties from D
 
 # Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
