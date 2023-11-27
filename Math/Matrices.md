@@ -179,6 +179,8 @@ A square matrix $A$ is *diagonalizable* if we can factor $A$ as $A=PDP^{-1}$ whe
 Ideas:
 1. Diagonal matrices are easy to deal with (compute det, eigenvalue, eigenvector, etc.)
 2. If A is diagonalizable then A inherits those properties from D
+- - - 
+A square matrix $A$ is diagonalizable if and only if we can build an invertiable matrix 
 
 # Properties
 > $\alpha$ and $\beta$ are both constants while $A$, $B$, and $C$ are all matrices.
