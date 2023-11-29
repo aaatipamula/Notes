@@ -133,7 +133,6 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 # Eigenvalues
 
 1. Seek a scaling factor $\lambda$ such that $Ax=\lambda x=(\lambda I)x$
-2. 
 
 Eigenvalues are paired with *eigenvectors*
 
@@ -183,7 +182,7 @@ Ideas:
 2. If A is diagonalizable then A inherits those properties from D
 
 - - - 
-A square matrix $A$ is diagonalizable if and only if we can build an invertible matrix P where columns are eigenvectors. In this case if $P=[x_1, x_2, ... x_n]$
+A square matrix $A$ is diagonalizable if and only if we can build an invertible matrix P where columns are eigenvectors. In this case if $P=[x_1, x_2, ... x_n]$ which is also invertible
 
 
 # Properties
