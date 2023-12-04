@@ -174,6 +174,7 @@ If A is a square matrix and is invertible:
 1. If a multiple of a row is added to another row $\det(A)=\det(A_1)$
 2. If a row is multiplied by a scalar $k$ then $\det(A)=k\det(A_1)$
 3. If a row is swapped with another then $\det(A)=-1\det(A_1)$
+
 - - -
 A square matrix $A$ is *diagonalizable* if we can factor $A$ as $A=PDP^{-1}$ where P=invertible and D=diagonal
 
