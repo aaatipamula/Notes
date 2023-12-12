@@ -132,12 +132,11 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 
 # Eigenvalues
 
-
 Eigenvalues are paired with *eigenvectors*
 
-To find an *eigenvalue*  we use the formula: $$A-\lambda I$$ and solve for values of $\lambda$
+To find an *eigenvalue*  we use the formula: $$A-\lambda I$$
 
-This comes from the equivalence $$Ax=\lambda x$$
+This comes from the equivalence $Ax=\lambda x=(\lambda I)x$ where $A$ is a square invertible matrix, and $x$ is our *eigenvector*
 
 # Theorems
 
