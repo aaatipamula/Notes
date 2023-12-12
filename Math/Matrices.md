@@ -69,6 +69,14 @@ $$
 1. An entire *row* or *column* is = 0
 2. 2 *rows* or *columns* are equal
 
+*How row operations modify the determinant*:
+
+> Assuming $A$ is an invertible matrix
+
+| Row Operation | Effect on Det | 
+| --- | --- |
+| $R_n \leftrightarrow R_m$ | $-\det(A)$
+
 # Invertible Matrices
 
 > If A is a *square* matrix, a matrix B is the **inverse** of A if and only if

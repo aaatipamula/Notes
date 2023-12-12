@@ -14,27 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Math/Matrices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1548abde71bc156a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Sorts and Complexities.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Sorts and Complexities.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Sorts and Complexities.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Sorts and Complexities.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1548abde71bc156a",
+  "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
-    "Math/Matrices.md",
     "Math/Sorts and Complexities.md",
+    "Math/Matrices.md",
     "Math/Coordinate Systems.md",
     "Math/Derivatives.md",
     "Attachments/Pasted image 20231030124759.png",
