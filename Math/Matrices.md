@@ -132,9 +132,12 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 
 # Eigenvalues
 
-1. Seek a scaling factor $\lambda$ such that $Ax=\lambda x=(\lambda I)x$
 
 Eigenvalues are paired with *eigenvectors*
+
+To find an *eigenvalue*  we use the formula: $$A-\lambda I$$ and solve for values of $\lambda$
+
+This comes from the equivalence $$Ax=\lambda x$$
 
 # Theorems
 
@@ -157,6 +160,7 @@ This provides a few things consequentially:
 3. If $A_1 ... A_n$ the previous formula becomes $\det(A^n)=\det(A)^n$
 
 - - -
+#determinants 
 Suppose that A is $n\times n$ and also that A is *invertible*:
 1. $\det(A)\ne0$
 2. $\det(A^{-1})=\det(A)^{-1}=\frac{1}{\det(A)}$
@@ -172,12 +176,14 @@ Suppose that A is $n\times n$ and also that A is *invertible*:
 > $1\to2\to3 \to4\to5 \to1$
 
 - - -
+#determinants
 If A is a square matrix and is invertible:
 1. If a multiple of a row is added to another row $\det(A)=\det(A_1)$
 2. If a row is multiplied by a scalar $k$ then $\det(A)=k\det(A_1)$
 3. If a row is swapped with another then $\det(A)=-1\det(A_1)$
 
 - - -
+#diagonalizeable
 A square matrix $A$ is *diagonalizable* if we can factor $A$ as $A=PDP^{-1}$ where P=invertible and D=diagonal
 
 Ideas:
@@ -185,6 +191,7 @@ Ideas:
 2. If A is diagonalizable then A inherits those properties from D
 
 - - - 
+#diagonalizeable
 A square matrix $A$ is diagonalizable if and only if we can build an invertible matrix P where columns are eigenvectors. In this case if $P=[x_1, x_2, ... x_n]$ which is also invertible
 
 
