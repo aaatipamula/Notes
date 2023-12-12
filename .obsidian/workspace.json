@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Discrete Structures.md",
+                "file": "Math/Matrices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11e6fdda66afd8f5",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Discrete Structures.md",
+                "file": "Math/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Discrete Structures.md"
+                "file": "Math/Matrices.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Discrete Structures.md",
+                "file": "Math/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +162,7 @@
   "active": "6c548244b2aaf30a",
   "lastOpenFiles": [
     "CS/Propositional Logic.md",
+    "CS/Discrete Structures.md",
     "Math/Matrices.md",
     "Math/Sorts and Complexities.md",
     "Math/Coordinate Systems.md",
@@ -182,7 +184,6 @@
     "Attachments/Pasted image 20230924174531.png",
     "Attachments/Pasted image 20230924174340.png",
     "Attachments/Pasted image 20230924174202.png",
-    "CS/Discrete Structures.md",
     "test.canvas",
     "Math/Alternating Series Test.md",
     "Math/L'Hopitals Rule.md",

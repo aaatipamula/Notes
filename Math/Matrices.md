@@ -134,9 +134,11 @@ $$E_n*E_{n-1} ... E_2 * E_1*A=I \rightarrow (E_n*E_{n-1} ... E_2 * E_1)^{-1}*I=A
 
 Eigenvalues are paired with *eigenvectors*
 
-To find an *eigenvalue*  we use the formula: $$A-\lambda I$$
+To find an *eigenvalue*  we use the formula: $$\det(A-\lambda I)=0$$
 
 This comes from the equivalence $Ax=\lambda x=(\lambda I)x$ where $A$ is a square invertible matrix, and $x$ is our *eigenvector*
+
+Removing the $x$ vector from our equation moving everything over to one side we get $A-(\lambda I)=0$. The only way this is true is if the determinant of the LHS is equal to 0. Therefore we get $\det(A-\lambda I)=0$
 
 # Theorems
 
