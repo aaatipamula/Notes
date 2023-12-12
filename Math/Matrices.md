@@ -69,14 +69,6 @@ $$
 1. An entire *row* or *column* is = 0
 2. 2 *rows* or *columns* are equal
 
-*How row operations modify the determinant*:
-
-> Assuming $A$ is an invertible matrix
-
-| Row Operation | Effect on Det | 
-| --- | --- |
-| $R_n \leftrightarrow R_m$ | $-\det(A)$
-
 # Invertible Matrices
 
 > If A is a *square* matrix, a matrix B is the **inverse** of A if and only if
@@ -146,6 +138,7 @@ Eigenvalues are paired with *eigenvectors*
 
 # Theorems
 
+#determinants
 *You cannot distribute determinants to matrices i.e $\det(A+B)\ne\det(A)+\det(B)$*
 
 If A is a $n\times n$ matrix:
@@ -153,6 +146,7 @@ If A is a $n\times n$ matrix:
 2. $\det(kA)=k^n\det(A)$
 
 - - - 
+#determinants 
 If A, B are both $n\times n$:
 > Prof. Hernandez calls it the "beautiful theorem"
 - $\det(AB)=\det(A)\det(B)$
