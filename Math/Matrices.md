@@ -140,6 +140,14 @@ This comes from the equivalence $Ax=\lambda x=(\lambda I)x$ where $A$ is a squar
 
 Removing the $x$ vector from our equation moving everything over to one side we get $A-(\lambda I)=0$. The only way this is true is if the determinant of the LHS is equal to 0. Therefore we get $\det(A-\lambda I)=0$
 
+# Eigenvectors
+
+Eigenvectors are paired with *eigenvalues*
+
+To find an *eigenvalue*  we first have to find its corresponding [[#Eigenvalues|eigenvalue]] or $\lambda$. 
+
+From there we sub in the value of the eigenvalue to the equation 
+
 # Theorems
 
 #determinants
